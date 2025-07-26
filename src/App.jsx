@@ -115,7 +115,7 @@ function App() {
     <div className="App">
       <div className="sidebar">
         <div className="sidebar-header">
-          <h2>NBA Analytics</h2>
+          <h2>All NBA</h2>
         </div>
         <nav className="sidebar-nav">
           <button
