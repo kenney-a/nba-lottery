@@ -203,7 +203,7 @@
         "efficiencyRating": 25.1
       },
       {
-        "name": "Player 1",
+        "name": "Jalen Brunson",
         "team": "Portland Trail Blazers",
         "position": "PG",
         "gamesPlayed": 73,
@@ -223,7 +223,7 @@
         "efficiencyRating": 10.1
       },
       {
-        "name": "Player 2",
+        "name": "Domantas Sabonis",
         "team": "Golden State Warriors",
         "position": "SF",
         "gamesPlayed": 52,
@@ -243,7 +243,7 @@
         "efficiencyRating": 10.8
       },
       {
-        "name": "Player 3",
+        "name": "Bam Adebayo",
         "team": "Los Angeles Lakers",
         "position": "PF",
         "gamesPlayed": 70,
@@ -263,7 +263,7 @@
         "efficiencyRating": 22.9
       },
       {
-        "name": "Player 4",
+        "name": "Paolo Banchero",
         "team": "Philadelphia 76ers",
         "position": "SF",
         "gamesPlayed": 84,
@@ -283,7 +283,7 @@
         "efficiencyRating": 19.9
       },
       {
-        "name": "Player 5",
+        "name": "Chet Holmgren",
         "team": "Toronto Raptors",
         "position": "PF",
         "gamesPlayed": 58,
@@ -303,7 +303,7 @@
         "efficiencyRating": 26.5
       },
       {
-        "name": "Player 6",
+        "name": "Stephen Curry",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 84,
@@ -323,7 +323,7 @@
         "efficiencyRating": 22.4
       },
       {
-        "name": "Player 7",
+        "name": "LeBron James",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 71,
@@ -343,7 +343,7 @@
         "efficiencyRating": 33.8
       },
       {
-        "name": "Player 8",
+        "name": "Damian Lillard",
         "team": "Los Angeles Clippers",
         "position": "SG",
         "gamesPlayed": 78,
@@ -363,7 +363,7 @@
         "efficiencyRating": 10.7
       },
       {
-        "name": "Player 9",
+        "name": "Donovan Mitchell",
         "team": "Toronto Raptors",
         "position": "C",
         "gamesPlayed": 87,
@@ -383,7 +383,7 @@
         "efficiencyRating": 31
       },
       {
-        "name": "Player 10",
+        "name": "Zion Williamson",
         "team": "Brooklyn Nets",
         "position": "PF",
         "gamesPlayed": 80,
@@ -403,7 +403,7 @@
         "efficiencyRating": 16.4
       },
       {
-        "name": "Player 11",
+        "name": "Jaylen Brown",
         "team": "New York Knicks",
         "position": "PF",
         "gamesPlayed": 66,
@@ -423,7 +423,7 @@
         "efficiencyRating": 18.8
       },
       {
-        "name": "Player 12",
+        "name": "Kawhi Leonard",
         "team": "Chicago Bulls",
         "position": "SF",
         "gamesPlayed": 59,
@@ -443,7 +443,7 @@
         "efficiencyRating": 10.5
       },
       {
-        "name": "Player 13",
+        "name": "Paul George",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 80,
@@ -463,7 +463,7 @@
         "efficiencyRating": 22.4
       },
       {
-        "name": "Player 14",
+        "name": "Jimmy Butler",
         "team": "Denver Nuggets",
         "position": "C",
         "gamesPlayed": 57,
@@ -483,7 +483,7 @@
         "efficiencyRating": 11.8
       },
       {
-        "name": "Player 15",
+        "name": "Karl-Anthony Towns",
         "team": "Denver Nuggets",
         "position": "SF",
         "gamesPlayed": 85,
@@ -503,7 +503,7 @@
         "efficiencyRating": 31.6
       },
       {
-        "name": "Player 16",
+        "name": "Rudy Gobert",
         "team": "Minnesota Timberwolves",
         "position": "SG",
         "gamesPlayed": 88,
@@ -523,7 +523,7 @@
         "efficiencyRating": 11
       },
       {
-        "name": "Player 17",
+        "name": "Julius Randle",
         "team": "Toronto Raptors",
         "position": "C",
         "gamesPlayed": 72,
@@ -543,7 +543,7 @@
         "efficiencyRating": 35
       },
       {
-        "name": "Player 18",
+        "name": "De'Aaron Fox",
         "team": "Detroit Pistons",
         "position": "SG",
         "gamesPlayed": 63,
@@ -563,7 +563,7 @@
         "efficiencyRating": 25.5
       },
       {
-        "name": "Player 19",
+        "name": "Trae Young",
         "team": "Indiana Pacers",
         "position": "SF",
         "gamesPlayed": 70,
@@ -583,7 +583,7 @@
         "efficiencyRating": 17.2
       },
       {
-        "name": "Player 20",
+        "name": "Ja Morant",
         "team": "Los Angeles Clippers",
         "position": "SG",
         "gamesPlayed": 64,
@@ -603,7 +603,7 @@
         "efficiencyRating": 13.9
       },
       {
-        "name": "Player 21",
+        "name": "Bradley Beal",
         "team": "Cleveland Cavaliers",
         "position": "SG",
         "gamesPlayed": 71,
@@ -623,7 +623,7 @@
         "efficiencyRating": 10.6
       },
       {
-        "name": "Player 22",
+        "name": "Zach LaVine",
         "team": "Houston Rockets",
         "position": "SG",
         "gamesPlayed": 89,
@@ -643,7 +643,7 @@
         "efficiencyRating": 20.1
       },
       {
-        "name": "Player 23",
+        "name": "Kyle Kuzma",
         "team": "Toronto Raptors",
         "position": "PG",
         "gamesPlayed": 64,
@@ -663,7 +663,7 @@
         "efficiencyRating": 25
       },
       {
-        "name": "Player 24",
+        "name": "Cade Cunningham",
         "team": "Los Angeles Lakers",
         "position": "SF",
         "gamesPlayed": 58,
@@ -683,7 +683,7 @@
         "efficiencyRating": 25.4
       },
       {
-        "name": "Player 25",
+        "name": "Scottie Barnes",
         "team": "Charlotte Hornets",
         "position": "PG",
         "gamesPlayed": 74,
@@ -703,7 +703,7 @@
         "efficiencyRating": 25.6
       },
       {
-        "name": "Player 26",
+        "name": "Franz Wagner",
         "team": "New Orleans Pelicans",
         "position": "PG",
         "gamesPlayed": 56,
@@ -723,7 +723,7 @@
         "efficiencyRating": 34.7
       },
       {
-        "name": "Player 27",
+        "name": "Jabari Smith Jr.",
         "team": "Los Angeles Clippers",
         "position": "PF",
         "gamesPlayed": 84,
@@ -743,7 +743,7 @@
         "efficiencyRating": 17.5
       },
       {
-        "name": "Player 28",
+        "name": "Keegan Murray",
         "team": "Los Angeles Clippers",
         "position": "SG",
         "gamesPlayed": 56,
@@ -763,7 +763,7 @@
         "efficiencyRating": 31.5
       },
       {
-        "name": "Player 29",
+        "name": "Bennedict Mathurin",
         "team": "Chicago Bulls",
         "position": "SF",
         "gamesPlayed": 69,
@@ -783,7 +783,7 @@
         "efficiencyRating": 20
       },
       {
-        "name": "Player 30",
+        "name": "Jaden Ivey",
         "team": "Oklahoma City Thunder",
         "position": "PF",
         "gamesPlayed": 64,
@@ -803,7 +803,7 @@
         "efficiencyRating": 14.6
       },
       {
-        "name": "Player 31",
+        "name": "Shaedon Sharpe",
         "team": "Golden State Warriors",
         "position": "SG",
         "gamesPlayed": 56,
@@ -823,7 +823,7 @@
         "efficiencyRating": 15.5
       },
       {
-        "name": "Player 32",
+        "name": "Jalen Williams",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 62,
@@ -843,7 +843,7 @@
         "efficiencyRating": 12
       },
       {
-        "name": "Player 33",
+        "name": "Walker Kessler",
         "team": "Phoenix Suns",
         "position": "SF",
         "gamesPlayed": 55,
@@ -863,7 +863,7 @@
         "efficiencyRating": 34.2
       },
       {
-        "name": "Player 34",
+        "name": "Tari Eason",
         "team": "Miami Heat",
         "position": "PG",
         "gamesPlayed": 78,
@@ -883,7 +883,7 @@
         "efficiencyRating": 27.7
       },
       {
-        "name": "Player 35",
+        "name": "Ochai Agbaji",
         "team": "Utah Jazz",
         "position": "SG",
         "gamesPlayed": 64,
@@ -903,7 +903,7 @@
         "efficiencyRating": 13.5
       },
       {
-        "name": "Player 36",
+        "name": "Johnny Davis",
         "team": "Sacramento Kings",
         "position": "SG",
         "gamesPlayed": 58,
@@ -923,7 +923,7 @@
         "efficiencyRating": 15.4
       },
       {
-        "name": "Player 37",
+        "name": "Dyson Daniels",
         "team": "Sacramento Kings",
         "position": "C",
         "gamesPlayed": 69,
@@ -943,7 +943,7 @@
         "efficiencyRating": 20.7
       },
       {
-        "name": "Player 38",
+        "name": "Mark Williams",
         "team": "Miami Heat",
         "position": "C",
         "gamesPlayed": 86,
@@ -963,7 +963,7 @@
         "efficiencyRating": 21.8
       },
       {
-        "name": "Player 39",
+        "name": "Blake Wesley",
         "team": "Denver Nuggets",
         "position": "PG",
         "gamesPlayed": 86,
@@ -983,7 +983,7 @@
         "efficiencyRating": 14.8
       },
       {
-        "name": "Player 40",
+        "name": "MarJon Beauchamp",
         "team": "San Antonio Spurs",
         "position": "SG",
         "gamesPlayed": 57,
@@ -1003,7 +1003,7 @@
         "efficiencyRating": 18.1
       },
       {
-        "name": "Player 41",
+        "name": "AJ Griffin",
         "team": "Dallas Mavericks",
         "position": "SG",
         "gamesPlayed": 70,
@@ -1023,7 +1023,7 @@
         "efficiencyRating": 33.9
       },
       {
-        "name": "Player 42",
+        "name": "Jake LaRavia",
         "team": "Memphis Grizzlies",
         "position": "SG",
         "gamesPlayed": 79,
@@ -1043,7 +1043,7 @@
         "efficiencyRating": 18.2
       },
       {
-        "name": "Player 43",
+        "name": "Dalen Terry",
         "team": "Detroit Pistons",
         "position": "C",
         "gamesPlayed": 53,
@@ -1063,7 +1063,7 @@
         "efficiencyRating": 18.7
       },
       {
-        "name": "Player 44",
+        "name": "Jeremy Sochan",
         "team": "Brooklyn Nets",
         "position": "PF",
         "gamesPlayed": 74,
@@ -1083,7 +1083,7 @@
         "efficiencyRating": 18
       },
       {
-        "name": "Player 45",
+        "name": "Malaki Branham",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 78,
@@ -1103,7 +1103,7 @@
         "efficiencyRating": 19.8
       },
       {
-        "name": "Player 46",
+        "name": "Jalen Duren",
         "team": "Chicago Bulls",
         "position": "SF",
         "gamesPlayed": 71,
@@ -1123,7 +1123,7 @@
         "efficiencyRating": 14.3
       },
       {
-        "name": "Player 47",
+        "name": "Ousmane Dieng",
         "team": "Minnesota Timberwolves",
         "position": "PF",
         "gamesPlayed": 63,
@@ -1143,7 +1143,7 @@
         "efficiencyRating": 15.1
       },
       {
-        "name": "Player 48",
+        "name": "Jaden Hardy",
         "team": "Oklahoma City Thunder",
         "position": "SG",
         "gamesPlayed": 65,
@@ -1163,7 +1163,7 @@
         "efficiencyRating": 31.7
       },
       {
-        "name": "Player 49",
+        "name": "Kennedy Chandler",
         "team": "Denver Nuggets",
         "position": "SF",
         "gamesPlayed": 52,
@@ -1183,7 +1183,7 @@
         "efficiencyRating": 15.3
       },
       {
-        "name": "Player 50",
+        "name": "Christian Koloko",
         "team": "Chicago Bulls",
         "position": "C",
         "gamesPlayed": 68,
@@ -1203,7 +1203,7 @@
         "efficiencyRating": 28.9
       },
       {
-        "name": "Player 51",
+        "name": "Jabari Walker",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 63,
@@ -1223,7 +1223,7 @@
         "efficiencyRating": 27.9
       },
       {
-        "name": "Player 52",
+        "name": "Max Christie",
         "team": "Memphis Grizzlies",
         "position": "PF",
         "gamesPlayed": 79,
@@ -1243,7 +1243,7 @@
         "efficiencyRating": 33.1
       },
       {
-        "name": "Player 53",
+        "name": "Andrew Nembhard",
         "team": "Miami Heat",
         "position": "SG",
         "gamesPlayed": 63,
@@ -1263,7 +1263,7 @@
         "efficiencyRating": 21.6
       },
       {
-        "name": "Player 54",
+        "name": "Caleb Houstan",
         "team": "Oklahoma City Thunder",
         "position": "PF",
         "gamesPlayed": 56,
@@ -1283,7 +1283,7 @@
         "efficiencyRating": 15.1
       },
       {
-        "name": "Player 55",
+        "name": "Christian Braun",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 51,
@@ -1303,7 +1303,7 @@
         "efficiencyRating": 30.9
       },
       {
-        "name": "Player 56",
+        "name": "Victor Wembanyama",
         "team": "Golden State Warriors",
         "position": "C",
         "gamesPlayed": 55,
@@ -1323,7 +1323,7 @@
         "efficiencyRating": 24.7
       },
       {
-        "name": "Player 57",
+        "name": "Scoot Henderson",
         "team": "Cleveland Cavaliers",
         "position": "C",
         "gamesPlayed": 66,
@@ -1343,7 +1343,7 @@
         "efficiencyRating": 13
       },
       {
-        "name": "Player 58",
+        "name": "Brandon Miller",
         "team": "New York Knicks",
         "position": "C",
         "gamesPlayed": 62,
@@ -1363,7 +1363,7 @@
         "efficiencyRating": 22.9
       },
       {
-        "name": "Player 59",
+        "name": "Amen Thompson",
         "team": "Indiana Pacers",
         "position": "PG",
         "gamesPlayed": 80,
@@ -1383,7 +1383,7 @@
         "efficiencyRating": 32.2
       },
       {
-        "name": "Player 60",
+        "name": "Ausar Thompson",
         "team": "Utah Jazz",
         "position": "SG",
         "gamesPlayed": 64,
@@ -1403,7 +1403,7 @@
         "efficiencyRating": 15.6
       },
       {
-        "name": "Player 61",
+        "name": "Anthony Black",
         "team": "Houston Rockets",
         "position": "SG",
         "gamesPlayed": 82,
@@ -1423,7 +1423,7 @@
         "efficiencyRating": 12.2
       },
       {
-        "name": "Player 62",
+        "name": "Bilal Coulibaly",
         "team": "Detroit Pistons",
         "position": "C",
         "gamesPlayed": 82,
@@ -1443,7 +1443,7 @@
         "efficiencyRating": 15.4
       },
       {
-        "name": "Player 63",
+        "name": "Taylor Hendricks",
         "team": "Atlanta Hawks",
         "position": "SG",
         "gamesPlayed": 88,
@@ -1463,7 +1463,7 @@
         "efficiencyRating": 31.8
       },
       {
-        "name": "Player 64",
+        "name": "Jarace Walker",
         "team": "Dallas Mavericks",
         "position": "PG",
         "gamesPlayed": 70,
@@ -1483,7 +1483,7 @@
         "efficiencyRating": 28.3
       },
       {
-        "name": "Player 65",
+        "name": "Gradey Dick",
         "team": "Detroit Pistons",
         "position": "C",
         "gamesPlayed": 71,
@@ -1503,7 +1503,7 @@
         "efficiencyRating": 13
       },
       {
-        "name": "Player 66",
+        "name": "Jordan Hawkins",
         "team": "Los Angeles Clippers",
         "position": "PF",
         "gamesPlayed": 66,
@@ -1523,7 +1523,7 @@
         "efficiencyRating": 12.5
       },
       {
-        "name": "Player 67",
+        "name": "Keyonte George",
         "team": "Atlanta Hawks",
         "position": "SG",
         "gamesPlayed": 60,
@@ -1543,7 +1543,7 @@
         "efficiencyRating": 28.2
       },
       {
-        "name": "Player 68",
+        "name": "Cason Wallace",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 63,
@@ -1563,7 +1563,7 @@
         "efficiencyRating": 25.3
       },
       {
-        "name": "Player 69",
+        "name": "Nick Smith Jr.",
         "team": "Los Angeles Clippers",
         "position": "PG",
         "gamesPlayed": 76,
@@ -1583,7 +1583,7 @@
         "efficiencyRating": 14.6
       },
       {
-        "name": "Player 70",
+        "name": "Jett Howard",
         "team": "Memphis Grizzlies",
         "position": "SF",
         "gamesPlayed": 66,
@@ -1603,7 +1603,7 @@
         "efficiencyRating": 10.6
       },
       {
-        "name": "Player 71",
+        "name": "Kobe Bufkin",
         "team": "Boston Celtics",
         "position": "SF",
         "gamesPlayed": 84,
@@ -1623,7 +1623,7 @@
         "efficiencyRating": 17.3
       },
       {
-        "name": "Player 72",
+        "name": "Dereck Lively II",
         "team": "Charlotte Hornets",
         "position": "SF",
         "gamesPlayed": 73,
@@ -1643,7 +1643,7 @@
         "efficiencyRating": 25.8
       },
       {
-        "name": "Player 73",
+        "name": "Jaime Jaquez Jr.",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 80,
@@ -1663,7 +1663,7 @@
         "efficiencyRating": 19.3
       },
       {
-        "name": "Player 74",
+        "name": "Brandin Podziemski",
         "team": "Washington Wizards",
         "position": "C",
         "gamesPlayed": 64,
@@ -1683,7 +1683,7 @@
         "efficiencyRating": 19.3
       },
       {
-        "name": "Player 75",
+        "name": "Trayce Jackson-Davis",
         "team": "Golden State Warriors",
         "position": "SF",
         "gamesPlayed": 77,
@@ -1703,7 +1703,7 @@
         "efficiencyRating": 16.1
       },
       {
-        "name": "Player 76",
+        "name": "Marcus Sasser",
         "team": "New Orleans Pelicans",
         "position": "PG",
         "gamesPlayed": 62,
@@ -1723,7 +1723,7 @@
         "efficiencyRating": 15
       },
       {
-        "name": "Player 77",
+        "name": "Ben Sheppard",
         "team": "Miami Heat",
         "position": "SG",
         "gamesPlayed": 58,
@@ -1743,7 +1743,7 @@
         "efficiencyRating": 16.3
       },
       {
-        "name": "Player 78",
+        "name": "Noah Clowney",
         "team": "Washington Wizards",
         "position": "C",
         "gamesPlayed": 69,
@@ -1763,7 +1763,7 @@
         "efficiencyRating": 33.9
       },
       {
-        "name": "Player 79",
+        "name": "Dariq Whitehead",
         "team": "Utah Jazz",
         "position": "PF",
         "gamesPlayed": 60,
@@ -1783,7 +1783,7 @@
         "efficiencyRating": 23.3
       },
       {
-        "name": "Player 80",
+        "name": "Brice Sensabaugh",
         "team": "Phoenix Suns",
         "position": "SG",
         "gamesPlayed": 71,
@@ -1803,7 +1803,7 @@
         "efficiencyRating": 27.7
       },
       {
-        "name": "Player 81",
+        "name": "Julian Strawther",
         "team": "Memphis Grizzlies",
         "position": "PF",
         "gamesPlayed": 85,
@@ -1823,7 +1823,7 @@
         "efficiencyRating": 34.4
       },
       {
-        "name": "Player 82",
+        "name": "Kris Murray",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 62,
@@ -1843,7 +1843,7 @@
         "efficiencyRating": 12.5
       },
       {
-        "name": "Player 83",
+        "name": "Toumani Camara",
         "team": "Sacramento Kings",
         "position": "SG",
         "gamesPlayed": 59,
@@ -1863,7 +1863,7 @@
         "efficiencyRating": 20
       },
       {
-        "name": "Player 84",
+        "name": "Seth Lundy",
         "team": "Denver Nuggets",
         "position": "PG",
         "gamesPlayed": 56,
@@ -1883,7 +1883,7 @@
         "efficiencyRating": 10.5
       },
       {
-        "name": "Player 85",
+        "name": "Mouhamed Gueye",
         "team": "Sacramento Kings",
         "position": "C",
         "gamesPlayed": 84,
@@ -1903,7 +1903,7 @@
         "efficiencyRating": 24.8
       },
       {
-        "name": "Player 86",
+        "name": "Maxwell Lewis",
         "team": "Toronto Raptors",
         "position": "C",
         "gamesPlayed": 54,
@@ -1923,7 +1923,7 @@
         "efficiencyRating": 19.3
       },
       {
-        "name": "Player 87",
+        "name": "Amari Bailey",
         "team": "Toronto Raptors",
         "position": "PG",
         "gamesPlayed": 70,
@@ -1943,7 +1943,7 @@
         "efficiencyRating": 29.2
       },
       {
-        "name": "Player 88",
+        "name": "Tristan Vukčević",
         "team": "Washington Wizards",
         "position": "C",
         "gamesPlayed": 50,
@@ -1963,7 +1963,7 @@
         "efficiencyRating": 16.4
       },
       {
-        "name": "Player 89",
+        "name": "Rayan Rupert",
         "team": "Miami Heat",
         "position": "SF",
         "gamesPlayed": 63,
@@ -1983,7 +1983,7 @@
         "efficiencyRating": 22.9
       },
       {
-        "name": "Player 90",
+        "name": "James Nnaji",
         "team": "New Orleans Pelicans",
         "position": "SF",
         "gamesPlayed": 68,
@@ -2003,7 +2003,7 @@
         "efficiencyRating": 30.6
       },
       {
-        "name": "Player 91",
+        "name": "Leonard Miller",
         "team": "Chicago Bulls",
         "position": "PF",
         "gamesPlayed": 73,
@@ -2023,7 +2023,7 @@
         "efficiencyRating": 29.9
       },
       {
-        "name": "Player 92",
+        "name": "Colby Jones",
         "team": "Chicago Bulls",
         "position": "PG",
         "gamesPlayed": 72,
@@ -2043,7 +2043,7 @@
         "efficiencyRating": 16.5
       },
       {
-        "name": "Player 93",
+        "name": "Jalen Pickett",
         "team": "Philadelphia 76ers",
         "position": "PG",
         "gamesPlayed": 51,
@@ -2063,7 +2063,7 @@
         "efficiencyRating": 17.6
       },
       {
-        "name": "Player 94",
+        "name": "Hunter Tyson",
         "team": "Orlando Magic",
         "position": "SG",
         "gamesPlayed": 89,
@@ -2083,7 +2083,7 @@
         "efficiencyRating": 26.7
       },
       {
-        "name": "Player 95",
+        "name": "Andre Jackson Jr.",
         "team": "San Antonio Spurs",
         "position": "SG",
         "gamesPlayed": 62,
@@ -2103,7 +2103,7 @@
         "efficiencyRating": 28.7
       },
       {
-        "name": "Player 96",
+        "name": "Chris Livingston",
         "team": "Los Angeles Clippers",
         "position": "SG",
         "gamesPlayed": 60,
@@ -2123,7 +2123,7 @@
         "efficiencyRating": 32.6
       },
       {
-        "name": "Player 97",
+        "name": "Jordan Walsh",
         "team": "Indiana Pacers",
         "position": "SF",
         "gamesPlayed": 76,
@@ -2143,7 +2143,7 @@
         "efficiencyRating": 11.1
       },
       {
-        "name": "Player 98",
+        "name": "Mouhamed Gueye",
         "team": "Miami Heat",
         "position": "C",
         "gamesPlayed": 87,
@@ -2163,7 +2163,7 @@
         "efficiencyRating": 15.4
       },
       {
-        "name": "Player 99",
+        "name": "Trayce Jackson-Davis",
         "team": "Philadelphia 76ers",
         "position": "SF",
         "gamesPlayed": 54,
@@ -2183,7 +2183,7 @@
         "efficiencyRating": 30.2
       },
       {
-        "name": "Player 100",
+        "name": "Brandin Podziemski",
         "team": "Cleveland Cavaliers",
         "position": "SG",
         "gamesPlayed": 74,
@@ -2203,7 +2203,7 @@
         "efficiencyRating": 32.8
       },
       {
-        "name": "Player 101",
+        "name": "Jaime Jaquez Jr.",
         "team": "Houston Rockets",
         "position": "SF",
         "gamesPlayed": 65,
@@ -2223,7 +2223,7 @@
         "efficiencyRating": 13.8
       },
       {
-        "name": "Player 102",
+        "name": "Dereck Lively II",
         "team": "San Antonio Spurs",
         "position": "SF",
         "gamesPlayed": 69,
@@ -2243,7 +2243,7 @@
         "efficiencyRating": 26.1
       },
       {
-        "name": "Player 103",
+        "name": "Kobe Bufkin",
         "team": "Miami Heat",
         "position": "SF",
         "gamesPlayed": 58,
@@ -2263,7 +2263,7 @@
         "efficiencyRating": 11.1
       },
       {
-        "name": "Player 104",
+        "name": "Jett Howard",
         "team": "Milwaukee Bucks",
         "position": "C",
         "gamesPlayed": 80,
@@ -2283,7 +2283,7 @@
         "efficiencyRating": 24.3
       },
       {
-        "name": "Player 105",
+        "name": "Nick Smith Jr.",
         "team": "Chicago Bulls",
         "position": "C",
         "gamesPlayed": 81,
@@ -2303,7 +2303,7 @@
         "efficiencyRating": 20.5
       },
       {
-        "name": "Player 106",
+        "name": "Cason Wallace",
         "team": "Detroit Pistons",
         "position": "SF",
         "gamesPlayed": 88,
@@ -2323,7 +2323,7 @@
         "efficiencyRating": 24.6
       },
       {
-        "name": "Player 107",
+        "name": "Keyonte George",
         "team": "Houston Rockets",
         "position": "SF",
         "gamesPlayed": 57,
@@ -2343,7 +2343,7 @@
         "efficiencyRating": 31.4
       },
       {
-        "name": "Player 108",
+        "name": "Jordan Hawkins",
         "team": "Dallas Mavericks",
         "position": "SF",
         "gamesPlayed": 78,
@@ -2363,7 +2363,7 @@
         "efficiencyRating": 17.7
       },
       {
-        "name": "Player 109",
+        "name": "Gradey Dick",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 68,
@@ -2383,7 +2383,7 @@
         "efficiencyRating": 21.6
       },
       {
-        "name": "Player 110",
+        "name": "Jarace Walker",
         "team": "Sacramento Kings",
         "position": "PG",
         "gamesPlayed": 86,
@@ -2403,7 +2403,7 @@
         "efficiencyRating": 15.2
       },
       {
-        "name": "Player 111",
+        "name": "Taylor Hendricks",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 55,
@@ -2423,7 +2423,7 @@
         "efficiencyRating": 10.2
       },
       {
-        "name": "Player 112",
+        "name": "Bilal Coulibaly",
         "team": "Miami Heat",
         "position": "SG",
         "gamesPlayed": 83,
@@ -2443,7 +2443,7 @@
         "efficiencyRating": 23.5
       },
       {
-        "name": "Player 113",
+        "name": "Anthony Black",
         "team": "Milwaukee Bucks",
         "position": "PF",
         "gamesPlayed": 85,
@@ -2463,7 +2463,7 @@
         "efficiencyRating": 34.7
       },
       {
-        "name": "Player 114",
+        "name": "Ausar Thompson",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 82,
@@ -2483,7 +2483,7 @@
         "efficiencyRating": 19
       },
       {
-        "name": "Player 115",
+        "name": "Amen Thompson",
         "team": "Dallas Mavericks",
         "position": "PF",
         "gamesPlayed": 64,
@@ -2503,7 +2503,7 @@
         "efficiencyRating": 34.6
       },
       {
-        "name": "Player 116",
+        "name": "Brandon Miller",
         "team": "New Orleans Pelicans",
         "position": "SF",
         "gamesPlayed": 84,
@@ -2523,7 +2523,7 @@
         "efficiencyRating": 20.6
       },
       {
-        "name": "Player 117",
+        "name": "Scoot Henderson",
         "team": "Brooklyn Nets",
         "position": "PG",
         "gamesPlayed": 77,
@@ -2543,7 +2543,7 @@
         "efficiencyRating": 13
       },
       {
-        "name": "Player 118",
+        "name": "Victor Wembanyama",
         "team": "Los Angeles Lakers",
         "position": "PF",
         "gamesPlayed": 76,
@@ -2563,7 +2563,7 @@
         "efficiencyRating": 13.3
       },
       {
-        "name": "Player 119",
+        "name": "Christian Braun",
         "team": "Detroit Pistons",
         "position": "PF",
         "gamesPlayed": 69,
@@ -2583,7 +2583,7 @@
         "efficiencyRating": 16.3
       },
       {
-        "name": "Player 120",
+        "name": "Caleb Houstan",
         "team": "Brooklyn Nets",
         "position": "SF",
         "gamesPlayed": 56,
@@ -2603,7 +2603,7 @@
         "efficiencyRating": 22.8
       },
       {
-        "name": "Player 121",
+        "name": "Andrew Nembhard",
         "team": "San Antonio Spurs",
         "position": "PG",
         "gamesPlayed": 79,
@@ -2623,7 +2623,7 @@
         "efficiencyRating": 21
       },
       {
-        "name": "Player 122",
+        "name": "Max Christie",
         "team": "Denver Nuggets",
         "position": "SF",
         "gamesPlayed": 89,
@@ -2643,7 +2643,7 @@
         "efficiencyRating": 23.7
       },
       {
-        "name": "Player 123",
+        "name": "Jabari Walker",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 73,
@@ -2663,7 +2663,7 @@
         "efficiencyRating": 11.4
       },
       {
-        "name": "Player 124",
+        "name": "Christian Koloko",
         "team": "Miami Heat",
         "position": "PG",
         "gamesPlayed": 79,
@@ -2683,7 +2683,7 @@
         "efficiencyRating": 11.4
       },
       {
-        "name": "Player 125",
+        "name": "Kennedy Chandler",
         "team": "Denver Nuggets",
         "position": "PG",
         "gamesPlayed": 72,
@@ -2703,7 +2703,7 @@
         "efficiencyRating": 25.3
       },
       {
-        "name": "Player 126",
+        "name": "Jaden Hardy",
         "team": "Los Angeles Lakers",
         "position": "PF",
         "gamesPlayed": 73,
@@ -2723,7 +2723,7 @@
         "efficiencyRating": 33.6
       },
       {
-        "name": "Player 127",
+        "name": "Ousmane Dieng",
         "team": "Brooklyn Nets",
         "position": "PF",
         "gamesPlayed": 88,
@@ -2743,7 +2743,7 @@
         "efficiencyRating": 31.9
       },
       {
-        "name": "Player 128",
+        "name": "Jalen Duren",
         "team": "Philadelphia 76ers",
         "position": "PF",
         "gamesPlayed": 71,
@@ -2763,7 +2763,7 @@
         "efficiencyRating": 28.1
       },
       {
-        "name": "Player 129",
+        "name": "Malaki Branham",
         "team": "Dallas Mavericks",
         "position": "C",
         "gamesPlayed": 63,
@@ -2783,7 +2783,7 @@
         "efficiencyRating": 30.9
       },
       {
-        "name": "Player 130",
+        "name": "Jeremy Sochan",
         "team": "Golden State Warriors",
         "position": "SG",
         "gamesPlayed": 85,
@@ -2803,7 +2803,7 @@
         "efficiencyRating": 33.3
       },
       {
-        "name": "Player 131",
+        "name": "Dalen Terry",
         "team": "Miami Heat",
         "position": "PF",
         "gamesPlayed": 50,
@@ -2823,7 +2823,7 @@
         "efficiencyRating": 21
       },
       {
-        "name": "Player 132",
+        "name": "Jake LaRavia",
         "team": "Boston Celtics",
         "position": "SG",
         "gamesPlayed": 75,
@@ -2843,7 +2843,7 @@
         "efficiencyRating": 27.9
       },
       {
-        "name": "Player 133",
+        "name": "AJ Griffin",
         "team": "New Orleans Pelicans",
         "position": "SG",
         "gamesPlayed": 55,
@@ -2863,7 +2863,7 @@
         "efficiencyRating": 23.4
       },
       {
-        "name": "Player 134",
+        "name": "MarJon Beauchamp",
         "team": "Phoenix Suns",
         "position": "C",
         "gamesPlayed": 50,
@@ -2883,7 +2883,7 @@
         "efficiencyRating": 24.8
       },
       {
-        "name": "Player 135",
+        "name": "Blake Wesley",
         "team": "Denver Nuggets",
         "position": "PG",
         "gamesPlayed": 76,
@@ -2903,7 +2903,7 @@
         "efficiencyRating": 17.5
       },
       {
-        "name": "Player 136",
+        "name": "Mark Williams",
         "team": "Denver Nuggets",
         "position": "PF",
         "gamesPlayed": 54,
@@ -2923,7 +2923,7 @@
         "efficiencyRating": 34
       },
       {
-        "name": "Player 137",
+        "name": "Dyson Daniels",
         "team": "Philadelphia 76ers",
         "position": "SG",
         "gamesPlayed": 51,
@@ -2943,7 +2943,7 @@
         "efficiencyRating": 27.6
       },
       {
-        "name": "Player 138",
+        "name": "Johnny Davis",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 82,
@@ -2963,7 +2963,7 @@
         "efficiencyRating": 14.3
       },
       {
-        "name": "Player 139",
+        "name": "Ochai Agbaji",
         "team": "Charlotte Hornets",
         "position": "PF",
         "gamesPlayed": 65,
@@ -2983,7 +2983,7 @@
         "efficiencyRating": 34.7
       },
       {
-        "name": "Player 140",
+        "name": "Tari Eason",
         "team": "Brooklyn Nets",
         "position": "C",
         "gamesPlayed": 85,
@@ -3003,7 +3003,7 @@
         "efficiencyRating": 35
       },
       {
-        "name": "Player 141",
+        "name": "Walker Kessler",
         "team": "Brooklyn Nets",
         "position": "C",
         "gamesPlayed": 51,
@@ -3023,7 +3023,7 @@
         "efficiencyRating": 26.9
       },
       {
-        "name": "Player 142",
+        "name": "Jalen Williams",
         "team": "Brooklyn Nets",
         "position": "C",
         "gamesPlayed": 72,
@@ -3043,7 +3043,7 @@
         "efficiencyRating": 24.6
       },
       {
-        "name": "Player 143",
+        "name": "Shaedon Sharpe",
         "team": "Oklahoma City Thunder",
         "position": "SG",
         "gamesPlayed": 55,
@@ -3063,7 +3063,7 @@
         "efficiencyRating": 14.6
       },
       {
-        "name": "Player 144",
+        "name": "Jaden Ivey",
         "team": "Orlando Magic",
         "position": "SF",
         "gamesPlayed": 80,
@@ -3083,7 +3083,7 @@
         "efficiencyRating": 14.5
       },
       {
-        "name": "Player 145",
+        "name": "Bennedict Mathurin",
         "team": "Dallas Mavericks",
         "position": "PF",
         "gamesPlayed": 71,
@@ -3103,7 +3103,7 @@
         "efficiencyRating": 15.5
       },
       {
-        "name": "Player 146",
+        "name": "Keegan Murray",
         "team": "Cleveland Cavaliers",
         "position": "PG",
         "gamesPlayed": 62,
@@ -3123,7 +3123,7 @@
         "efficiencyRating": 23.2
       },
       {
-        "name": "Player 147",
+        "name": "Jabari Smith Jr.",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 68,
@@ -3143,7 +3143,7 @@
         "efficiencyRating": 16.3
       },
       {
-        "name": "Player 148",
+        "name": "Franz Wagner",
         "team": "Miami Heat",
         "position": "PG",
         "gamesPlayed": 53,
@@ -3163,7 +3163,7 @@
         "efficiencyRating": 34.5
       },
       {
-        "name": "Player 149",
+        "name": "Scottie Barnes",
         "team": "Memphis Grizzlies",
         "position": "C",
         "gamesPlayed": 61,
@@ -3183,7 +3183,7 @@
         "efficiencyRating": 14.9
       },
       {
-        "name": "Player 150",
+        "name": "Cade Cunningham",
         "team": "Toronto Raptors",
         "position": "SG",
         "gamesPlayed": 82,
@@ -3203,7 +3203,7 @@
         "efficiencyRating": 14.9
       },
       {
-        "name": "Player 151",
+        "name": "Kyle Kuzma",
         "team": "Los Angeles Clippers",
         "position": "C",
         "gamesPlayed": 58,
@@ -3223,7 +3223,7 @@
         "efficiencyRating": 12.4
       },
       {
-        "name": "Player 152",
+        "name": "Zach LaVine",
         "team": "New Orleans Pelicans",
         "position": "SF",
         "gamesPlayed": 60,
@@ -3243,7 +3243,7 @@
         "efficiencyRating": 17.3
       },
       {
-        "name": "Player 153",
+        "name": "Bradley Beal",
         "team": "Atlanta Hawks",
         "position": "SF",
         "gamesPlayed": 89,
@@ -3263,7 +3263,7 @@
         "efficiencyRating": 15.1
       },
       {
-        "name": "Player 154",
+        "name": "Ja Morant",
         "team": "Cleveland Cavaliers",
         "position": "PG",
         "gamesPlayed": 52,
@@ -3283,7 +3283,7 @@
         "efficiencyRating": 19.7
       },
       {
-        "name": "Player 155",
+        "name": "Trae Young",
         "team": "Portland Trail Blazers",
         "position": "PG",
         "gamesPlayed": 69,
@@ -3303,7 +3303,7 @@
         "efficiencyRating": 15.9
       },
       {
-        "name": "Player 156",
+        "name": "De'Aaron Fox",
         "team": "Minnesota Timberwolves",
         "position": "PF",
         "gamesPlayed": 80,
@@ -3323,7 +3323,7 @@
         "efficiencyRating": 25.5
       },
       {
-        "name": "Player 157",
+        "name": "Julius Randle",
         "team": "Phoenix Suns",
         "position": "PG",
         "gamesPlayed": 50,
@@ -3343,7 +3343,7 @@
         "efficiencyRating": 15.1
       },
       {
-        "name": "Player 158",
+        "name": "Rudy Gobert",
         "team": "Memphis Grizzlies",
         "position": "PG",
         "gamesPlayed": 58,
@@ -3363,7 +3363,7 @@
         "efficiencyRating": 25
       },
       {
-        "name": "Player 159",
+        "name": "Karl-Anthony Towns",
         "team": "Milwaukee Bucks",
         "position": "PF",
         "gamesPlayed": 54,
@@ -3383,7 +3383,7 @@
         "efficiencyRating": 31.3
       },
       {
-        "name": "Player 160",
+        "name": "Jimmy Butler",
         "team": "Golden State Warriors",
         "position": "SF",
         "gamesPlayed": 87,
@@ -3403,7 +3403,7 @@
         "efficiencyRating": 23.6
       },
       {
-        "name": "Player 161",
+        "name": "Paul George",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 60,
@@ -3423,7 +3423,7 @@
         "efficiencyRating": 31.5
       },
       {
-        "name": "Player 162",
+        "name": "Kawhi Leonard",
         "team": "New Orleans Pelicans",
         "position": "PF",
         "gamesPlayed": 50,
@@ -3443,7 +3443,7 @@
         "efficiencyRating": 27.1
       },
       {
-        "name": "Player 163",
+        "name": "Jaylen Brown",
         "team": "Chicago Bulls",
         "position": "C",
         "gamesPlayed": 82,
@@ -3463,7 +3463,7 @@
         "efficiencyRating": 10.8
       },
       {
-        "name": "Player 164",
+        "name": "Zion Williamson",
         "team": "San Antonio Spurs",
         "position": "SF",
         "gamesPlayed": 54,
@@ -3483,7 +3483,7 @@
         "efficiencyRating": 30.4
       },
       {
-        "name": "Player 165",
+        "name": "Donovan Mitchell",
         "team": "Indiana Pacers",
         "position": "PG",
         "gamesPlayed": 67,
@@ -3503,7 +3503,7 @@
         "efficiencyRating": 13.1
       },
       {
-        "name": "Player 166",
+        "name": "Damian Lillard",
         "team": "Dallas Mavericks",
         "position": "SF",
         "gamesPlayed": 65,
@@ -3523,7 +3523,7 @@
         "efficiencyRating": 12.1
       },
       {
-        "name": "Player 167",
+        "name": "LeBron James",
         "team": "Miami Heat",
         "position": "PF",
         "gamesPlayed": 57,
@@ -3543,7 +3543,7 @@
         "efficiencyRating": 21.5
       },
       {
-        "name": "Player 168",
+        "name": "Stephen Curry",
         "team": "Sacramento Kings",
         "position": "SG",
         "gamesPlayed": 87,
@@ -3563,7 +3563,7 @@
         "efficiencyRating": 19.4
       },
       {
-        "name": "Player 169",
+        "name": "Chet Holmgren",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 70,
@@ -3583,7 +3583,7 @@
         "efficiencyRating": 17.4
       },
       {
-        "name": "Player 170",
+        "name": "Paolo Banchero",
         "team": "Atlanta Hawks",
         "position": "C",
         "gamesPlayed": 57,
@@ -3603,7 +3603,7 @@
         "efficiencyRating": 25.6
       },
       {
-        "name": "Player 171",
+        "name": "Bam Adebayo",
         "team": "Minnesota Timberwolves",
         "position": "SF",
         "gamesPlayed": 80,
@@ -3623,7 +3623,7 @@
         "efficiencyRating": 30.9
       },
       {
-        "name": "Player 172",
+        "name": "Domantas Sabonis",
         "team": "Atlanta Hawks",
         "position": "SG",
         "gamesPlayed": 89,
@@ -3643,7 +3643,7 @@
         "efficiencyRating": 19.4
       },
       {
-        "name": "Player 173",
+        "name": "Jalen Brunson",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 61,
@@ -3663,7 +3663,7 @@
         "efficiencyRating": 13.9
       },
       {
-        "name": "Player 174",
+        "name": "Tyrese Haliburton",
         "team": "Denver Nuggets",
         "position": "PF",
         "gamesPlayed": 67,
@@ -3683,7 +3683,7 @@
         "efficiencyRating": 21.7
       },
       {
-        "name": "Player 175",
+        "name": "Anthony Edwards",
         "team": "New York Knicks",
         "position": "SF",
         "gamesPlayed": 58,
@@ -3703,7 +3703,7 @@
         "efficiencyRating": 29.3
       },
       {
-        "name": "Player 176",
+        "name": "Devin Booker",
         "team": "Washington Wizards",
         "position": "C",
         "gamesPlayed": 51,
@@ -3723,7 +3723,7 @@
         "efficiencyRating": 27
       },
       {
-        "name": "Player 177",
+        "name": "Kevin Durant",
         "team": "Los Angeles Clippers",
         "position": "SG",
         "gamesPlayed": 82,
@@ -3743,7 +3743,7 @@
         "efficiencyRating": 22.8
       },
       {
-        "name": "Player 178",
+        "name": "Jayson Tatum",
         "team": "New Orleans Pelicans",
         "position": "PG",
         "gamesPlayed": 88,
@@ -3763,7 +3763,7 @@
         "efficiencyRating": 23.9
       },
       {
-        "name": "Player 179",
+        "name": "Giannis Antetokounmpo",
         "team": "Boston Celtics",
         "position": "PF",
         "gamesPlayed": 76,
@@ -3783,7 +3783,7 @@
         "efficiencyRating": 30.6
       },
       {
-        "name": "Player 180",
+        "name": "Shai Gilgeous-Alexander",
         "team": "Phoenix Suns",
         "position": "SF",
         "gamesPlayed": 74,
@@ -3803,7 +3803,7 @@
         "efficiencyRating": 28.1
       },
       {
-        "name": "Player 181",
+        "name": "Luka Dončić",
         "team": "Minnesota Timberwolves",
         "position": "SF",
         "gamesPlayed": 59,
@@ -3823,7 +3823,7 @@
         "efficiencyRating": 11.6
       },
       {
-        "name": "Player 182",
+        "name": "Joel Embiid",
         "team": "Milwaukee Bucks",
         "position": "PG",
         "gamesPlayed": 85,
@@ -3843,7 +3843,7 @@
         "efficiencyRating": 12.5
       },
       {
-        "name": "Player 183",
+        "name": "Nikola Jokić",
         "team": "Indiana Pacers",
         "position": "C",
         "gamesPlayed": 86,
@@ -3863,7 +3863,7 @@
         "efficiencyRating": 11.1
       },
       {
-        "name": "Player 184",
+        "name": "Jamal Murray",
         "team": "San Antonio Spurs",
         "position": "SG",
         "gamesPlayed": 54,
@@ -3883,7 +3883,7 @@
         "efficiencyRating": 11.5
       },
       {
-        "name": "Player 185",
+        "name": "Aaron Gordon",
         "team": "Denver Nuggets",
         "position": "SF",
         "gamesPlayed": 82,
@@ -3903,7 +3903,7 @@
         "efficiencyRating": 28.8
       },
       {
-        "name": "Player 186",
+        "name": "Michael Porter Jr.",
         "team": "Memphis Grizzlies",
         "position": "C",
         "gamesPlayed": 55,
@@ -3923,7 +3923,7 @@
         "efficiencyRating": 26.1
       },
       {
-        "name": "Player 187",
+        "name": "Kentavious Caldwell-Pope",
         "team": "Washington Wizards",
         "position": "SF",
         "gamesPlayed": 53,
@@ -3943,7 +3943,7 @@
         "efficiencyRating": 20.1
       },
       {
-        "name": "Player 188",
+        "name": "Bruce Brown",
         "team": "Memphis Grizzlies",
         "position": "SG",
         "gamesPlayed": 75,
@@ -3963,7 +3963,7 @@
         "efficiencyRating": 31
       },
       {
-        "name": "Player 189",
+        "name": "Jeff Green",
         "team": "Houston Rockets",
         "position": "SG",
         "gamesPlayed": 67,
@@ -3983,7 +3983,7 @@
         "efficiencyRating": 26.9
       },
       {
-        "name": "Player 190",
+        "name": "Ish Smith",
         "team": "Chicago Bulls",
         "position": "C",
         "gamesPlayed": 56,
@@ -4108,7 +4108,7 @@
         "efficiencyRating": 29.8
       },
       {
-        "name": "Player 1",
+        "name": "Jayson Tatum",
         "team": "Orlando Magic",
         "position": "SG",
         "gamesPlayed": 83,
@@ -4128,7 +4128,7 @@
         "efficiencyRating": 19.2
       },
       {
-        "name": "Player 2",
+        "name": "Kevin Durant",
         "team": "Washington Wizards",
         "position": "SF",
         "gamesPlayed": 71,
@@ -4148,7 +4148,7 @@
         "efficiencyRating": 30.5
       },
       {
-        "name": "Player 3",
+        "name": "Stephen Curry",
         "team": "Houston Rockets",
         "position": "PG",
         "gamesPlayed": 63,
@@ -4168,7 +4168,7 @@
         "efficiencyRating": 27.6
       },
       {
-        "name": "Player 4",
+        "name": "Devin Booker",
         "team": "New Orleans Pelicans",
         "position": "SG",
         "gamesPlayed": 60,
@@ -4188,7 +4188,7 @@
         "efficiencyRating": 15.2
       },
       {
-        "name": "Player 5",
+        "name": "Anthony Edwards",
         "team": "Dallas Mavericks",
         "position": "PF",
         "gamesPlayed": 54,
@@ -4208,7 +4208,7 @@
         "efficiencyRating": 22.6
       },
       {
-        "name": "Player 6",
+        "name": "Tyrese Haliburton",
         "team": "Detroit Pistons",
         "position": "SF",
         "gamesPlayed": 76,
@@ -4228,7 +4228,7 @@
         "efficiencyRating": 19.2
       },
       {
-        "name": "Player 7",
+        "name": "Jalen Brunson",
         "team": "Minnesota Timberwolves",
         "position": "C",
         "gamesPlayed": 60,
@@ -4248,7 +4248,7 @@
         "efficiencyRating": 31.4
       },
       {
-        "name": "Player 8",
+        "name": "Domantas Sabonis",
         "team": "Minnesota Timberwolves",
         "position": "C",
         "gamesPlayed": 55,
@@ -4268,7 +4268,7 @@
         "efficiencyRating": 24.4
       },
       {
-        "name": "Player 9",
+        "name": "Bam Adebayo",
         "team": "Golden State Warriors",
         "position": "PG",
         "gamesPlayed": 61,
@@ -4288,7 +4288,7 @@
         "efficiencyRating": 16
       },
       {
-        "name": "Player 10",
+        "name": "Paolo Banchero",
         "team": "Oklahoma City Thunder",
         "position": "PF",
         "gamesPlayed": 60,
@@ -4308,7 +4308,7 @@
         "efficiencyRating": 15.7
       },
       {
-        "name": "Player 11",
+        "name": "LeBron James",
         "team": "Utah Jazz",
         "position": "PG",
         "gamesPlayed": 59,
@@ -4328,7 +4328,7 @@
         "efficiencyRating": 25
       },
       {
-        "name": "Player 12",
+        "name": "Donovan Mitchell",
         "team": "Washington Wizards",
         "position": "C",
         "gamesPlayed": 80,
@@ -4348,7 +4348,7 @@
         "efficiencyRating": 27.5
       },
       {
-        "name": "Player 13",
+        "name": "Zion Williamson",
         "team": "Miami Heat",
         "position": "PF",
         "gamesPlayed": 81,
@@ -4368,7 +4368,7 @@
         "efficiencyRating": 24.1
       },
       {
-        "name": "Player 14",
+        "name": "Jaylen Brown",
         "team": "Detroit Pistons",
         "position": "PF",
         "gamesPlayed": 68,
@@ -4388,7 +4388,7 @@
         "efficiencyRating": 25.5
       },
       {
-        "name": "Player 15",
+        "name": "Kawhi Leonard",
         "team": "Philadelphia 76ers",
         "position": "SF",
         "gamesPlayed": 79,
@@ -4408,7 +4408,7 @@
         "efficiencyRating": 24.9
       },
       {
-        "name": "Player 16",
+        "name": "Paul George",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 81,
@@ -4428,7 +4428,7 @@
         "efficiencyRating": 19.3
       },
       {
-        "name": "Player 17",
+        "name": "Jimmy Butler",
         "team": "Philadelphia 76ers",
         "position": "SG",
         "gamesPlayed": 53,
@@ -4448,7 +4448,7 @@
         "efficiencyRating": 23.7
       },
       {
-        "name": "Player 18",
+        "name": "Karl-Anthony Towns",
         "team": "Utah Jazz",
         "position": "PG",
         "gamesPlayed": 58,
@@ -4468,7 +4468,7 @@
         "efficiencyRating": 34
       },
       {
-        "name": "Player 19",
+        "name": "Rudy Gobert",
         "team": "Miami Heat",
         "position": "C",
         "gamesPlayed": 85,
@@ -4488,7 +4488,7 @@
         "efficiencyRating": 24.8
       },
       {
-        "name": "Player 20",
+        "name": "Julius Randle",
         "team": "New York Knicks",
         "position": "PG",
         "gamesPlayed": 59,
@@ -4508,7 +4508,7 @@
         "efficiencyRating": 27.5
       },
       {
-        "name": "Player 21",
+        "name": "De'Aaron Fox",
         "team": "Washington Wizards",
         "position": "SF",
         "gamesPlayed": 61,
@@ -4528,7 +4528,7 @@
         "efficiencyRating": 11.4
       },
       {
-        "name": "Player 22",
+        "name": "Trae Young",
         "team": "Denver Nuggets",
         "position": "C",
         "gamesPlayed": 82,
@@ -4548,7 +4548,7 @@
         "efficiencyRating": 15.9
       },
       {
-        "name": "Player 23",
+        "name": "Ja Morant",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 82,
@@ -4568,7 +4568,7 @@
         "efficiencyRating": 11.8
       },
       {
-        "name": "Player 24",
+        "name": "Bradley Beal",
         "team": "Houston Rockets",
         "position": "SF",
         "gamesPlayed": 63,
@@ -4588,7 +4588,7 @@
         "efficiencyRating": 27.7
       },
       {
-        "name": "Player 25",
+        "name": "Zach LaVine",
         "team": "New Orleans Pelicans",
         "position": "SF",
         "gamesPlayed": 59,
@@ -4608,7 +4608,7 @@
         "efficiencyRating": 34.8
       },
       {
-        "name": "Player 26",
+        "name": "Kyle Kuzma",
         "team": "Sacramento Kings",
         "position": "C",
         "gamesPlayed": 80,
@@ -4628,7 +4628,7 @@
         "efficiencyRating": 34.3
       },
       {
-        "name": "Player 27",
+        "name": "Cade Cunningham",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 75,
@@ -4648,7 +4648,7 @@
         "efficiencyRating": 12.4
       },
       {
-        "name": "Player 28",
+        "name": "Scottie Barnes",
         "team": "Detroit Pistons",
         "position": "SG",
         "gamesPlayed": 73,
@@ -4668,7 +4668,7 @@
         "efficiencyRating": 32.4
       },
       {
-        "name": "Player 29",
+        "name": "Franz Wagner",
         "team": "San Antonio Spurs",
         "position": "C",
         "gamesPlayed": 82,
@@ -4688,7 +4688,7 @@
         "efficiencyRating": 18.1
       },
       {
-        "name": "Player 30",
+        "name": "Jabari Smith Jr.",
         "team": "Detroit Pistons",
         "position": "C",
         "gamesPlayed": 86,
@@ -4708,7 +4708,7 @@
         "efficiencyRating": 11.3
       },
       {
-        "name": "Player 31",
+        "name": "Keegan Murray",
         "team": "Cleveland Cavaliers",
         "position": "SG",
         "gamesPlayed": 81,
@@ -4728,7 +4728,7 @@
         "efficiencyRating": 34
       },
       {
-        "name": "Player 32",
+        "name": "Bennedict Mathurin",
         "team": "Phoenix Suns",
         "position": "PF",
         "gamesPlayed": 66,
@@ -4748,7 +4748,7 @@
         "efficiencyRating": 32.9
       },
       {
-        "name": "Player 33",
+        "name": "Jaden Ivey",
         "team": "Memphis Grizzlies",
         "position": "SG",
         "gamesPlayed": 68,
@@ -4768,7 +4768,7 @@
         "efficiencyRating": 31.3
       },
       {
-        "name": "Player 34",
+        "name": "Shaedon Sharpe",
         "team": "Milwaukee Bucks",
         "position": "PG",
         "gamesPlayed": 64,
@@ -4788,7 +4788,7 @@
         "efficiencyRating": 11.3
       },
       {
-        "name": "Player 35",
+        "name": "Jalen Williams",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 82,
@@ -4808,7 +4808,7 @@
         "efficiencyRating": 10.3
       },
       {
-        "name": "Player 36",
+        "name": "Walker Kessler",
         "team": "Phoenix Suns",
         "position": "PF",
         "gamesPlayed": 89,
@@ -4828,7 +4828,7 @@
         "efficiencyRating": 22.3
       },
       {
-        "name": "Player 37",
+        "name": "Tari Eason",
         "team": "Los Angeles Lakers",
         "position": "C",
         "gamesPlayed": 87,
@@ -4848,7 +4848,7 @@
         "efficiencyRating": 11.8
       },
       {
-        "name": "Player 38",
+        "name": "Ochai Agbaji",
         "team": "Phoenix Suns",
         "position": "PG",
         "gamesPlayed": 89,
@@ -4868,7 +4868,7 @@
         "efficiencyRating": 24
       },
       {
-        "name": "Player 39",
+        "name": "Johnny Davis",
         "team": "San Antonio Spurs",
         "position": "PF",
         "gamesPlayed": 75,
@@ -4888,7 +4888,7 @@
         "efficiencyRating": 27.4
       },
       {
-        "name": "Player 40",
+        "name": "Dyson Daniels",
         "team": "Oklahoma City Thunder",
         "position": "PF",
         "gamesPlayed": 51,
@@ -4908,7 +4908,7 @@
         "efficiencyRating": 15.7
       },
       {
-        "name": "Player 41",
+        "name": "Mark Williams",
         "team": "Orlando Magic",
         "position": "PF",
         "gamesPlayed": 72,
@@ -4928,7 +4928,7 @@
         "efficiencyRating": 18
       },
       {
-        "name": "Player 42",
+        "name": "Blake Wesley",
         "team": "New York Knicks",
         "position": "PF",
         "gamesPlayed": 65,
@@ -4948,7 +4948,7 @@
         "efficiencyRating": 31.9
       },
       {
-        "name": "Player 43",
+        "name": "MarJon Beauchamp",
         "team": "Detroit Pistons",
         "position": "SG",
         "gamesPlayed": 88,
@@ -4968,7 +4968,7 @@
         "efficiencyRating": 29.5
       },
       {
-        "name": "Player 44",
+        "name": "AJ Griffin",
         "team": "Philadelphia 76ers",
         "position": "PG",
         "gamesPlayed": 55,
@@ -4988,7 +4988,7 @@
         "efficiencyRating": 25.4
       },
       {
-        "name": "Player 45",
+        "name": "Jake LaRavia",
         "team": "Indiana Pacers",
         "position": "C",
         "gamesPlayed": 81,
@@ -5008,7 +5008,7 @@
         "efficiencyRating": 31.1
       },
       {
-        "name": "Player 46",
+        "name": "Dalen Terry",
         "team": "Milwaukee Bucks",
         "position": "PF",
         "gamesPlayed": 55,
@@ -5028,7 +5028,7 @@
         "efficiencyRating": 18
       },
       {
-        "name": "Player 47",
+        "name": "Jeremy Sochan",
         "team": "Los Angeles Clippers",
         "position": "PG",
         "gamesPlayed": 60,
@@ -5048,7 +5048,7 @@
         "efficiencyRating": 23.2
       },
       {
-        "name": "Player 48",
+        "name": "Malaki Branham",
         "team": "Dallas Mavericks",
         "position": "SF",
         "gamesPlayed": 68,
@@ -5068,7 +5068,7 @@
         "efficiencyRating": 30.1
       },
       {
-        "name": "Player 49",
+        "name": "Jalen Duren",
         "team": "New York Knicks",
         "position": "C",
         "gamesPlayed": 86,
@@ -5088,7 +5088,7 @@
         "efficiencyRating": 19.6
       },
       {
-        "name": "Player 50",
+        "name": "Ousmane Dieng",
         "team": "Oklahoma City Thunder",
         "position": "PF",
         "gamesPlayed": 70,
@@ -5108,7 +5108,7 @@
         "efficiencyRating": 22.1
       },
       {
-        "name": "Player 51",
+        "name": "Jaden Hardy",
         "team": "Toronto Raptors",
         "position": "SF",
         "gamesPlayed": 64,
@@ -5128,7 +5128,7 @@
         "efficiencyRating": 26.5
       },
       {
-        "name": "Player 52",
+        "name": "Kennedy Chandler",
         "team": "Los Angeles Lakers",
         "position": "SG",
         "gamesPlayed": 52,
@@ -5148,7 +5148,7 @@
         "efficiencyRating": 21.2
       },
       {
-        "name": "Player 53",
+        "name": "Christian Koloko",
         "team": "Phoenix Suns",
         "position": "PF",
         "gamesPlayed": 60,
@@ -5168,7 +5168,7 @@
         "efficiencyRating": 20
       },
       {
-        "name": "Player 54",
+        "name": "Jabari Walker",
         "team": "Dallas Mavericks",
         "position": "C",
         "gamesPlayed": 67,
@@ -5188,7 +5188,7 @@
         "efficiencyRating": 15
       },
       {
-        "name": "Player 55",
+        "name": "Max Christie",
         "team": "Chicago Bulls",
         "position": "SG",
         "gamesPlayed": 75,
@@ -5208,7 +5208,7 @@
         "efficiencyRating": 16.3
       },
       {
-        "name": "Player 56",
+        "name": "Andrew Nembhard",
         "team": "Los Angeles Clippers",
         "position": "PG",
         "gamesPlayed": 63,
@@ -5228,7 +5228,7 @@
         "efficiencyRating": 24.6
       },
       {
-        "name": "Player 57",
+        "name": "Caleb Houstan",
         "team": "Philadelphia 76ers",
         "position": "C",
         "gamesPlayed": 70,
@@ -5248,7 +5248,7 @@
         "efficiencyRating": 25.5
       },
       {
-        "name": "Player 58",
+        "name": "Christian Braun",
         "team": "Dallas Mavericks",
         "position": "PF",
         "gamesPlayed": 73,
@@ -5268,7 +5268,7 @@
         "efficiencyRating": 18.3
       },
       {
-        "name": "Player 59",
+        "name": "Nikola Jokić",
         "team": "Milwaukee Bucks",
         "position": "SG",
         "gamesPlayed": 64,
@@ -5288,7 +5288,7 @@
         "efficiencyRating": 27.9
       },
       {
-        "name": "Player 60",
+        "name": "Jamal Murray",
         "team": "Houston Rockets",
         "position": "C",
         "gamesPlayed": 55,
@@ -5308,7 +5308,7 @@
         "efficiencyRating": 21.4
       },
       {
-        "name": "Player 61",
+        "name": "Aaron Gordon",
         "team": "Cleveland Cavaliers",
         "position": "PF",
         "gamesPlayed": 62,
@@ -5328,7 +5328,7 @@
         "efficiencyRating": 20.8
       },
       {
-        "name": "Player 62",
+        "name": "Michael Porter Jr.",
         "team": "Denver Nuggets",
         "position": "C",
         "gamesPlayed": 78,
@@ -5348,7 +5348,7 @@
         "efficiencyRating": 16
       },
       {
-        "name": "Player 63",
+        "name": "Kentavious Caldwell-Pope",
         "team": "San Antonio Spurs",
         "position": "SG",
         "gamesPlayed": 58,
@@ -5368,7 +5368,7 @@
         "efficiencyRating": 15.9
       },
       {
-        "name": "Player 64",
+        "name": "Bruce Brown",
         "team": "Washington Wizards",
         "position": "PG",
         "gamesPlayed": 89,
@@ -5388,7 +5388,7 @@
         "efficiencyRating": 31.8
       },
       {
-        "name": "Player 65",
+        "name": "Jeff Green",
         "team": "Philadelphia 76ers",
         "position": "PG",
         "gamesPlayed": 79,
@@ -5408,7 +5408,7 @@
         "efficiencyRating": 12
       },
       {
-        "name": "Player 66",
+        "name": "Ish Smith",
         "team": "Memphis Grizzlies",
         "position": "SG",
         "gamesPlayed": 86,
@@ -5428,7 +5428,7 @@
         "efficiencyRating": 26.8
       },
       {
-        "name": "Player 67",
+        "name": "Reggie Jackson",
         "team": "Sacramento Kings",
         "position": "SF",
         "gamesPlayed": 89,
@@ -5448,7 +5448,7 @@
         "efficiencyRating": 23.4
       },
       {
-        "name": "Player 68",
+        "name": "DeAndre Jordan",
         "team": "Utah Jazz",
         "position": "PF",
         "gamesPlayed": 53,
@@ -5468,7 +5468,7 @@
         "efficiencyRating": 34.6
       },
       {
-        "name": "Player 69",
+        "name": "Thomas Bryant",
         "team": "Oklahoma City Thunder",
         "position": "SG",
         "gamesPlayed": 83,
@@ -5488,7 +5488,7 @@
         "efficiencyRating": 12.1
       },
       {
-        "name": "Player 70",
+        "name": "Vlatko Čančar",
         "team": "San Antonio Spurs",
         "position": "PF",
         "gamesPlayed": 72,
@@ -5508,7 +5508,7 @@
         "efficiencyRating": 25.7
       },
       {
-        "name": "Player 71",
+        "name": "Peyton Watson",
         "team": "Los Angeles Lakers",
         "position": "SG",
         "gamesPlayed": 68,
@@ -5528,7 +5528,7 @@
         "efficiencyRating": 22.3
       },
       {
-        "name": "Player 72",
+        "name": "Collin Gillespie",
         "team": "Chicago Bulls",
         "position": "SF",
         "gamesPlayed": 73,
@@ -5548,7 +5548,7 @@
         "efficiencyRating": 26.2
       },
       {
-        "name": "Player 73",
+        "name": "Julian Strawther",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 60,
@@ -5568,7 +5568,7 @@
         "efficiencyRating": 26
       },
       {
-        "name": "Player 74",
+        "name": "Hunter Tyson",
         "team": "Detroit Pistons",
         "position": "SF",
         "gamesPlayed": 77,
@@ -5588,7 +5588,7 @@
         "efficiencyRating": 19.7
       },
       {
-        "name": "Player 75",
+        "name": "Braxton Key",
         "team": "Brooklyn Nets",
         "position": "PG",
         "gamesPlayed": 85,
@@ -5608,7 +5608,7 @@
         "efficiencyRating": 15.4
       },
       {
-        "name": "Player 76",
+        "name": "Adonis Arms",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 56,
@@ -5628,7 +5628,7 @@
         "efficiencyRating": 16.3
       },
       {
-        "name": "Player 77",
+        "name": "Jack White",
         "team": "Charlotte Hornets",
         "position": "SG",
         "gamesPlayed": 55,
@@ -5648,7 +5648,7 @@
         "efficiencyRating": 21.5
       },
       {
-        "name": "Player 78",
+        "name": "Justin Holiday",
         "team": "Boston Celtics",
         "position": "SG",
         "gamesPlayed": 73,
@@ -5668,7 +5668,7 @@
         "efficiencyRating": 16
       },
       {
-        "name": "Player 79",
+        "name": "Davon Reed",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 68,
@@ -5688,7 +5688,7 @@
         "efficiencyRating": 16.1
       },
       {
-        "name": "Player 80",
+        "name": "DeAndre Jordan",
         "team": "Boston Celtics",
         "position": "PG",
         "gamesPlayed": 80,
@@ -5708,7 +5708,7 @@
         "efficiencyRating": 28.6
       },
       {
-        "name": "Player 81",
+        "name": "Ish Smith",
         "team": "Miami Heat",
         "position": "SF",
         "gamesPlayed": 82,
@@ -5728,7 +5728,7 @@
         "efficiencyRating": 29.9
       },
       {
-        "name": "Player 82",
+        "name": "Reggie Jackson",
         "team": "Boston Celtics",
         "position": "PG",
         "gamesPlayed": 58,
@@ -5748,7 +5748,7 @@
         "efficiencyRating": 12.3
       },
       {
-        "name": "Player 83",
+        "name": "Jeff Green",
         "team": "Toronto Raptors",
         "position": "C",
         "gamesPlayed": 58,
@@ -5768,7 +5768,7 @@
         "efficiencyRating": 30.8
       },
       {
-        "name": "Player 84",
+        "name": "Bruce Brown",
         "team": "Dallas Mavericks",
         "position": "C",
         "gamesPlayed": 59,
@@ -5788,7 +5788,7 @@
         "efficiencyRating": 28
       },
       {
-        "name": "Player 85",
+        "name": "Kentavious Caldwell-Pope",
         "team": "Miami Heat",
         "position": "C",
         "gamesPlayed": 50,
@@ -5808,7 +5808,7 @@
         "efficiencyRating": 19.2
       },
       {
-        "name": "Player 86",
+        "name": "Michael Porter Jr.",
         "team": "Detroit Pistons",
         "position": "SF",
         "gamesPlayed": 85,
@@ -5828,7 +5828,7 @@
         "efficiencyRating": 32.9
       },
       {
-        "name": "Player 87",
+        "name": "Aaron Gordon",
         "team": "Oklahoma City Thunder",
         "position": "SG",
         "gamesPlayed": 87,
@@ -5848,7 +5848,7 @@
         "efficiencyRating": 16.2
       },
       {
-        "name": "Player 88",
+        "name": "Jamal Murray",
         "team": "Los Angeles Clippers",
         "position": "PF",
         "gamesPlayed": 87,
@@ -5868,7 +5868,7 @@
         "efficiencyRating": 26.9
       },
       {
-        "name": "Player 89",
+        "name": "Nikola Jokić",
         "team": "Detroit Pistons",
         "position": "SF",
         "gamesPlayed": 63,
@@ -5888,7 +5888,7 @@
         "efficiencyRating": 14.3
       },
       {
-        "name": "Player 90",
+        "name": "Joel Embiid",
         "team": "Orlando Magic",
         "position": "C",
         "gamesPlayed": 68,
@@ -5908,7 +5908,7 @@
         "efficiencyRating": 29.5
       },
       {
-        "name": "Player 91",
+        "name": "Luka Dončić",
         "team": "Utah Jazz",
         "position": "C",
         "gamesPlayed": 51,
@@ -5928,7 +5928,7 @@
         "efficiencyRating": 29
       },
       {
-        "name": "Player 92",
+        "name": "Shai Gilgeous-Alexander",
         "team": "Toronto Raptors",
         "position": "SF",
         "gamesPlayed": 71,
@@ -5948,7 +5948,7 @@
         "efficiencyRating": 13.9
       },
       {
-        "name": "Player 93",
+        "name": "Giannis Antetokounmpo",
         "team": "Milwaukee Bucks",
         "position": "SG",
         "gamesPlayed": 58,
@@ -5968,7 +5968,7 @@
         "efficiencyRating": 18.3
       },
       {
-        "name": "Player 94",
+        "name": "Jayson Tatum",
         "team": "Utah Jazz",
         "position": "PF",
         "gamesPlayed": 66,
@@ -5988,7 +5988,7 @@
         "efficiencyRating": 32.4
       },
       {
-        "name": "Player 95",
+        "name": "Kevin Durant",
         "team": "San Antonio Spurs",
         "position": "PF",
         "gamesPlayed": 55,
@@ -6008,7 +6008,7 @@
         "efficiencyRating": 17.7
       },
       {
-        "name": "Player 96",
+        "name": "Devin Booker",
         "team": "Portland Trail Blazers",
         "position": "PF",
         "gamesPlayed": 60,
@@ -6028,7 +6028,7 @@
         "efficiencyRating": 33.5
       },
       {
-        "name": "Player 97",
+        "name": "Anthony Edwards",
         "team": "New York Knicks",
         "position": "PG",
         "gamesPlayed": 85,
@@ -6048,7 +6048,7 @@
         "efficiencyRating": 31.2
       },
       {
-        "name": "Player 98",
+        "name": "Tyrese Haliburton",
         "team": "Orlando Magic",
         "position": "C",
         "gamesPlayed": 83,
@@ -6068,7 +6068,7 @@
         "efficiencyRating": 20.2
       },
       {
-        "name": "Player 99",
+        "name": "Jalen Brunson",
         "team": "Toronto Raptors",
         "position": "PF",
         "gamesPlayed": 82,
@@ -6088,7 +6088,7 @@
         "efficiencyRating": 24
       },
       {
-        "name": "Player 100",
+        "name": "Domantas Sabonis",
         "team": "Chicago Bulls",
         "position": "SG",
         "gamesPlayed": 55,
@@ -6108,7 +6108,7 @@
         "efficiencyRating": 21.8
       },
       {
-        "name": "Player 101",
+        "name": "Bam Adebayo",
         "team": "Los Angeles Lakers",
         "position": "C",
         "gamesPlayed": 63,
@@ -6128,7 +6128,7 @@
         "efficiencyRating": 22.9
       },
       {
-        "name": "Player 102",
+        "name": "Paolo Banchero",
         "team": "Milwaukee Bucks",
         "position": "PF",
         "gamesPlayed": 74,
@@ -6148,7 +6148,7 @@
         "efficiencyRating": 32.6
       },
       {
-        "name": "Player 103",
+        "name": "Stephen Curry",
         "team": "San Antonio Spurs",
         "position": "PG",
         "gamesPlayed": 55,
@@ -6168,7 +6168,7 @@
         "efficiencyRating": 20.4
       },
       {
-        "name": "Player 104",
+        "name": "LeBron James",
         "team": "Golden State Warriors",
         "position": "SG",
         "gamesPlayed": 63,
@@ -6188,7 +6188,7 @@
         "efficiencyRating": 12.8
       },
       {
-        "name": "Player 105",
+        "name": "Damian Lillard",
         "team": "Golden State Warriors",
         "position": "C",
         "gamesPlayed": 50,
@@ -6208,7 +6208,7 @@
         "efficiencyRating": 18.5
       },
       {
-        "name": "Player 106",
+        "name": "Donovan Mitchell",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 76,
@@ -6228,7 +6228,7 @@
         "efficiencyRating": 18.3
       },
       {
-        "name": "Player 107",
+        "name": "Zion Williamson",
         "team": "New York Knicks",
         "position": "SG",
         "gamesPlayed": 87,
@@ -6248,7 +6248,7 @@
         "efficiencyRating": 14.8
       },
       {
-        "name": "Player 108",
+        "name": "Jaylen Brown",
         "team": "New Orleans Pelicans",
         "position": "SG",
         "gamesPlayed": 57,
@@ -6268,7 +6268,7 @@
         "efficiencyRating": 22.1
       },
       {
-        "name": "Player 109",
+        "name": "Kawhi Leonard",
         "team": "Los Angeles Lakers",
         "position": "C",
         "gamesPlayed": 52,
@@ -6288,7 +6288,7 @@
         "efficiencyRating": 28.4
       },
       {
-        "name": "Player 110",
+        "name": "Paul George",
         "team": "Sacramento Kings",
         "position": "PG",
         "gamesPlayed": 83,
@@ -6308,7 +6308,7 @@
         "efficiencyRating": 12.9
       },
       {
-        "name": "Player 111",
+        "name": "Jimmy Butler",
         "team": "Golden State Warriors",
         "position": "SG",
         "gamesPlayed": 51,
@@ -6328,7 +6328,7 @@
         "efficiencyRating": 23.2
       },
       {
-        "name": "Player 112",
+        "name": "Karl-Anthony Towns",
         "team": "Milwaukee Bucks",
         "position": "C",
         "gamesPlayed": 87,
@@ -6348,7 +6348,7 @@
         "efficiencyRating": 26.4
       },
       {
-        "name": "Player 113",
+        "name": "Rudy Gobert",
         "team": "San Antonio Spurs",
         "position": "PG",
         "gamesPlayed": 70,
@@ -6368,7 +6368,7 @@
         "efficiencyRating": 23.5
       },
       {
-        "name": "Player 114",
+        "name": "Julius Randle",
         "team": "Indiana Pacers",
         "position": "SG",
         "gamesPlayed": 55,
@@ -6388,7 +6388,7 @@
         "efficiencyRating": 24.5
       },
       {
-        "name": "Player 115",
+        "name": "De'Aaron Fox",
         "team": "Houston Rockets",
         "position": "PF",
         "gamesPlayed": 65,
@@ -6408,7 +6408,7 @@
         "efficiencyRating": 24.7
       },
       {
-        "name": "Player 116",
+        "name": "Trae Young",
         "team": "Chicago Bulls",
         "position": "PF",
         "gamesPlayed": 85,
@@ -6428,7 +6428,7 @@
         "efficiencyRating": 15.1
       },
       {
-        "name": "Player 117",
+        "name": "Ja Morant",
         "team": "Dallas Mavericks",
         "position": "C",
         "gamesPlayed": 75,
@@ -6448,7 +6448,7 @@
         "efficiencyRating": 34.3
       },
       {
-        "name": "Player 118",
+        "name": "Bradley Beal",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 62,
@@ -6468,7 +6468,7 @@
         "efficiencyRating": 17.5
       },
       {
-        "name": "Player 119",
+        "name": "Zach LaVine",
         "team": "Utah Jazz",
         "position": "PF",
         "gamesPlayed": 62,
@@ -6488,7 +6488,7 @@
         "efficiencyRating": 33.1
       },
       {
-        "name": "Player 120",
+        "name": "Kyle Kuzma",
         "team": "Chicago Bulls",
         "position": "PG",
         "gamesPlayed": 73,
@@ -6508,7 +6508,7 @@
         "efficiencyRating": 22.5
       },
       {
-        "name": "Player 121",
+        "name": "Cade Cunningham",
         "team": "Los Angeles Clippers",
         "position": "C",
         "gamesPlayed": 84,
@@ -6528,7 +6528,7 @@
         "efficiencyRating": 21.2
       },
       {
-        "name": "Player 122",
+        "name": "Scottie Barnes",
         "team": "Phoenix Suns",
         "position": "C",
         "gamesPlayed": 53,
@@ -6548,7 +6548,7 @@
         "efficiencyRating": 33.8
       },
       {
-        "name": "Player 123",
+        "name": "Franz Wagner",
         "team": "Houston Rockets",
         "position": "PF",
         "gamesPlayed": 63,
@@ -6568,7 +6568,7 @@
         "efficiencyRating": 31.9
       },
       {
-        "name": "Player 124",
+        "name": "Jabari Smith Jr.",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 69,
@@ -6588,7 +6588,7 @@
         "efficiencyRating": 11.4
       },
       {
-        "name": "Player 125",
+        "name": "Keegan Murray",
         "team": "Atlanta Hawks",
         "position": "PF",
         "gamesPlayed": 74,
@@ -6608,7 +6608,7 @@
         "efficiencyRating": 20.7
       },
       {
-        "name": "Player 126",
+        "name": "Bennedict Mathurin",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 71,
@@ -6628,7 +6628,7 @@
         "efficiencyRating": 18.4
       },
       {
-        "name": "Player 127",
+        "name": "Jaden Ivey",
         "team": "Chicago Bulls",
         "position": "PF",
         "gamesPlayed": 64,
@@ -6648,7 +6648,7 @@
         "efficiencyRating": 29.6
       },
       {
-        "name": "Player 128",
+        "name": "Shaedon Sharpe",
         "team": "Miami Heat",
         "position": "SF",
         "gamesPlayed": 85,
@@ -6668,7 +6668,7 @@
         "efficiencyRating": 25.5
       },
       {
-        "name": "Player 129",
+        "name": "Jalen Williams",
         "team": "Philadelphia 76ers",
         "position": "SG",
         "gamesPlayed": 57,
@@ -6688,7 +6688,7 @@
         "efficiencyRating": 11.2
       },
       {
-        "name": "Player 130",
+        "name": "Walker Kessler",
         "team": "Los Angeles Clippers",
         "position": "PG",
         "gamesPlayed": 88,
@@ -6708,7 +6708,7 @@
         "efficiencyRating": 23.3
       },
       {
-        "name": "Player 131",
+        "name": "Tari Eason",
         "team": "New Orleans Pelicans",
         "position": "PF",
         "gamesPlayed": 65,
@@ -6728,7 +6728,7 @@
         "efficiencyRating": 20.3
       },
       {
-        "name": "Player 132",
+        "name": "Ochai Agbaji",
         "team": "Dallas Mavericks",
         "position": "SF",
         "gamesPlayed": 50,
@@ -6748,7 +6748,7 @@
         "efficiencyRating": 16
       },
       {
-        "name": "Player 133",
+        "name": "Johnny Davis",
         "team": "Oklahoma City Thunder",
         "position": "PG",
         "gamesPlayed": 58,
@@ -6768,7 +6768,7 @@
         "efficiencyRating": 28.8
       },
       {
-        "name": "Player 134",
+        "name": "Dyson Daniels",
         "team": "Orlando Magic",
         "position": "PF",
         "gamesPlayed": 51,
@@ -6788,7 +6788,7 @@
         "efficiencyRating": 27.8
       },
       {
-        "name": "Player 135",
+        "name": "Mark Williams",
         "team": "New York Knicks",
         "position": "C",
         "gamesPlayed": 58,
@@ -6808,7 +6808,7 @@
         "efficiencyRating": 23.8
       },
       {
-        "name": "Player 136",
+        "name": "Blake Wesley",
         "team": "Phoenix Suns",
         "position": "PF",
         "gamesPlayed": 60,
@@ -6828,7 +6828,7 @@
         "efficiencyRating": 11.1
       },
       {
-        "name": "Player 137",
+        "name": "MarJon Beauchamp",
         "team": "Cleveland Cavaliers",
         "position": "PF",
         "gamesPlayed": 70,
@@ -6848,7 +6848,7 @@
         "efficiencyRating": 20.3
       },
       {
-        "name": "Player 138",
+        "name": "AJ Griffin",
         "team": "Utah Jazz",
         "position": "PG",
         "gamesPlayed": 76,
@@ -6868,7 +6868,7 @@
         "efficiencyRating": 32.5
       },
       {
-        "name": "Player 139",
+        "name": "Jake LaRavia",
         "team": "Washington Wizards",
         "position": "SF",
         "gamesPlayed": 68,
@@ -6888,7 +6888,7 @@
         "efficiencyRating": 31.2
       },
       {
-        "name": "Player 140",
+        "name": "Dalen Terry",
         "team": "Cleveland Cavaliers",
         "position": "PG",
         "gamesPlayed": 81,
@@ -6908,7 +6908,7 @@
         "efficiencyRating": 18.2
       },
       {
-        "name": "Player 141",
+        "name": "Jeremy Sochan",
         "team": "Atlanta Hawks",
         "position": "PF",
         "gamesPlayed": 84,
@@ -6928,7 +6928,7 @@
         "efficiencyRating": 30.1
       },
       {
-        "name": "Player 142",
+        "name": "Malaki Branham",
         "team": "Phoenix Suns",
         "position": "PF",
         "gamesPlayed": 53,
@@ -6948,7 +6948,7 @@
         "efficiencyRating": 18.4
       },
       {
-        "name": "Player 143",
+        "name": "Jalen Duren",
         "team": "Boston Celtics",
         "position": "PF",
         "gamesPlayed": 68,
@@ -6968,7 +6968,7 @@
         "efficiencyRating": 24.3
       },
       {
-        "name": "Player 144",
+        "name": "Ousmane Dieng",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 74,
@@ -6988,7 +6988,7 @@
         "efficiencyRating": 29.9
       },
       {
-        "name": "Player 145",
+        "name": "Jaden Hardy",
         "team": "Golden State Warriors",
         "position": "SF",
         "gamesPlayed": 83,
@@ -7008,7 +7008,7 @@
         "efficiencyRating": 23.1
       },
       {
-        "name": "Player 146",
+        "name": "Kennedy Chandler",
         "team": "Philadelphia 76ers",
         "position": "C",
         "gamesPlayed": 76,
@@ -7028,7 +7028,7 @@
         "efficiencyRating": 19.6
       },
       {
-        "name": "Player 147",
+        "name": "Christian Koloko",
         "team": "Golden State Warriors",
         "position": "PG",
         "gamesPlayed": 55,
@@ -7048,7 +7048,7 @@
         "efficiencyRating": 27.8
       },
       {
-        "name": "Player 148",
+        "name": "Jabari Walker",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 51,
@@ -7068,7 +7068,7 @@
         "efficiencyRating": 27.5
       },
       {
-        "name": "Player 149",
+        "name": "Max Christie",
         "team": "Portland Trail Blazers",
         "position": "SG",
         "gamesPlayed": 78,
@@ -7088,7 +7088,7 @@
         "efficiencyRating": 26.6
       },
       {
-        "name": "Player 150",
+        "name": "Andrew Nembhard",
         "team": "Oklahoma City Thunder",
         "position": "C",
         "gamesPlayed": 85,
@@ -7108,7 +7108,7 @@
         "efficiencyRating": 31.2
       },
       {
-        "name": "Player 151",
+        "name": "Caleb Houstan",
         "team": "Dallas Mavericks",
         "position": "PF",
         "gamesPlayed": 51,
@@ -7128,7 +7128,7 @@
         "efficiencyRating": 20.3
       },
       {
-        "name": "Player 152",
+        "name": "Christian Braun",
         "team": "Phoenix Suns",
         "position": "PG",
         "gamesPlayed": 78,
@@ -7148,7 +7148,7 @@
         "efficiencyRating": 11
       },
       {
-        "name": "Player 153",
+        "name": "Nikola Jokić",
         "team": "Detroit Pistons",
         "position": "PG",
         "gamesPlayed": 82,
@@ -7168,7 +7168,7 @@
         "efficiencyRating": 21.8
       },
       {
-        "name": "Player 154",
+        "name": "Jamal Murray",
         "team": "Indiana Pacers",
         "position": "PF",
         "gamesPlayed": 84,
@@ -7188,7 +7188,7 @@
         "efficiencyRating": 28.5
       },
       {
-        "name": "Player 155",
+        "name": "Aaron Gordon",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 74,
@@ -7208,7 +7208,7 @@
         "efficiencyRating": 18.1
       },
       {
-        "name": "Player 156",
+        "name": "Michael Porter Jr.",
         "team": "Philadelphia 76ers",
         "position": "SG",
         "gamesPlayed": 67,
@@ -7228,7 +7228,7 @@
         "efficiencyRating": 30.7
       },
       {
-        "name": "Player 157",
+        "name": "Kentavious Caldwell-Pope",
         "team": "Charlotte Hornets",
         "position": "C",
         "gamesPlayed": 52,
@@ -7248,7 +7248,7 @@
         "efficiencyRating": 31.3
       },
       {
-        "name": "Player 158",
+        "name": "Bruce Brown",
         "team": "Denver Nuggets",
         "position": "SF",
         "gamesPlayed": 72,
@@ -7268,7 +7268,7 @@
         "efficiencyRating": 14
       },
       {
-        "name": "Player 159",
+        "name": "Jeff Green",
         "team": "Oklahoma City Thunder",
         "position": "SF",
         "gamesPlayed": 64,
@@ -7288,7 +7288,7 @@
         "efficiencyRating": 27.7
       },
       {
-        "name": "Player 160",
+        "name": "Ish Smith",
         "team": "Los Angeles Clippers",
         "position": "SF",
         "gamesPlayed": 59,
@@ -7308,7 +7308,7 @@
         "efficiencyRating": 25.1
       },
       {
-        "name": "Player 161",
+        "name": "Reggie Jackson",
         "team": "Oklahoma City Thunder",
         "position": "C",
         "gamesPlayed": 83,
@@ -7328,7 +7328,7 @@
         "efficiencyRating": 21.4
       },
       {
-        "name": "Player 162",
+        "name": "DeAndre Jordan",
         "team": "Sacramento Kings",
         "position": "PG",
         "gamesPlayed": 88,
@@ -7348,7 +7348,7 @@
         "efficiencyRating": 11.2
       },
       {
-        "name": "Player 163",
+        "name": "Thomas Bryant",
         "team": "Sacramento Kings",
         "position": "C",
         "gamesPlayed": 71,
@@ -7368,7 +7368,7 @@
         "efficiencyRating": 19.2
       },
       {
-        "name": "Player 164",
+        "name": "Vlatko Čančar",
         "team": "Memphis Grizzlies",
         "position": "C",
         "gamesPlayed": 87,
@@ -7388,7 +7388,7 @@
         "efficiencyRating": 34.2
       },
       {
-        "name": "Player 165",
+        "name": "Peyton Watson",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 51,
@@ -7408,7 +7408,7 @@
         "efficiencyRating": 12.4
       },
       {
-        "name": "Player 166",
+        "name": "Collin Gillespie",
         "team": "Denver Nuggets",
         "position": "SG",
         "gamesPlayed": 71,
@@ -7428,7 +7428,7 @@
         "efficiencyRating": 30.2
       },
       {
-        "name": "Player 167",
+        "name": "Julian Strawther",
         "team": "Los Angeles Lakers",
         "position": "PG",
         "gamesPlayed": 55,
@@ -7448,7 +7448,7 @@
         "efficiencyRating": 14.7
       },
       {
-        "name": "Player 168",
+        "name": "Hunter Tyson",
         "team": "New Orleans Pelicans",
         "position": "SG",
         "gamesPlayed": 84,
@@ -7468,7 +7468,7 @@
         "efficiencyRating": 23.9
       },
       {
-        "name": "Player 169",
+        "name": "Braxton Key",
         "team": "Oklahoma City Thunder",
         "position": "PG",
         "gamesPlayed": 71,
@@ -7488,7 +7488,7 @@
         "efficiencyRating": 25.2
       },
       {
-        "name": "Player 170",
+        "name": "Adonis Arms",
         "team": "Cleveland Cavaliers",
         "position": "SG",
         "gamesPlayed": 86,
@@ -7508,7 +7508,7 @@
         "efficiencyRating": 19
       },
       {
-        "name": "Player 171",
+        "name": "Jack White",
         "team": "Indiana Pacers",
         "position": "C",
         "gamesPlayed": 66,
@@ -7528,7 +7528,7 @@
         "efficiencyRating": 15.2
       },
       {
-        "name": "Player 172",
+        "name": "Justin Holiday",
         "team": "Cleveland Cavaliers",
         "position": "PG",
         "gamesPlayed": 84,
@@ -7548,7 +7548,7 @@
         "efficiencyRating": 16.6
       },
       {
-        "name": "Player 173",
+        "name": "Davon Reed",
         "team": "Phoenix Suns",
         "position": "SG",
         "gamesPlayed": 84,
@@ -7568,7 +7568,7 @@
         "efficiencyRating": 22.2
       },
       {
-        "name": "Player 174",
+        "name": "DeAndre Jordan",
         "team": "Indiana Pacers",
         "position": "SF",
         "gamesPlayed": 77,
@@ -7588,7 +7588,7 @@
         "efficiencyRating": 33.1
       },
       {
-        "name": "Player 175",
+        "name": "Ish Smith",
         "team": "Chicago Bulls",
         "position": "C",
         "gamesPlayed": 54,
@@ -7608,7 +7608,7 @@
         "efficiencyRating": 31.5
       },
       {
-        "name": "Player 176",
+        "name": "Reggie Jackson",
         "team": "Los Angeles Clippers",
         "position": "PF",
         "gamesPlayed": 82,
@@ -7628,7 +7628,7 @@
         "efficiencyRating": 17.8
       },
       {
-        "name": "Player 177",
+        "name": "Jeff Green",
         "team": "Los Angeles Clippers",
         "position": "PF",
         "gamesPlayed": 76,
@@ -7648,7 +7648,7 @@
         "efficiencyRating": 20
       },
       {
-        "name": "Player 178",
+        "name": "Bruce Brown",
         "team": "Sacramento Kings",
         "position": "SG",
         "gamesPlayed": 84,
@@ -7668,7 +7668,7 @@
         "efficiencyRating": 25.8
       },
       {
-        "name": "Player 179",
+        "name": "Kentavious Caldwell-Pope",
         "team": "Washington Wizards",
         "position": "PG",
         "gamesPlayed": 86,
@@ -7688,7 +7688,7 @@
         "efficiencyRating": 28.2
       },
       {
-        "name": "Player 180",
+        "name": "Michael Porter Jr.",
         "team": "Brooklyn Nets",
         "position": "PG",
         "gamesPlayed": 51,
@@ -7708,7 +7708,7 @@
         "efficiencyRating": 10.2
       },
       {
-        "name": "Player 181",
+        "name": "Aaron Gordon",
         "team": "Boston Celtics",
         "position": "PF",
         "gamesPlayed": 86,
@@ -7728,7 +7728,7 @@
         "efficiencyRating": 23.9
       },
       {
-        "name": "Player 182",
+        "name": "Jamal Murray",
         "team": "Washington Wizards",
         "position": "PF",
         "gamesPlayed": 54,
@@ -7748,7 +7748,7 @@
         "efficiencyRating": 33.4
       },
       {
-        "name": "Player 183",
+        "name": "Nikola Jokić",
         "team": "Portland Trail Blazers",
         "position": "C",
         "gamesPlayed": 81,
@@ -7768,7 +7768,7 @@
         "efficiencyRating": 20.7
       },
       {
-        "name": "Player 184",
+        "name": "Joel Embiid",
         "team": "Charlotte Hornets",
         "position": "SF",
         "gamesPlayed": 68,
@@ -7788,7 +7788,7 @@
         "efficiencyRating": 13.8
       },
       {
-        "name": "Player 185",
+        "name": "Luka Dončić",
         "team": "Minnesota Timberwolves",
         "position": "SF",
         "gamesPlayed": 82,
@@ -7808,7 +7808,7 @@
         "efficiencyRating": 16.6
       },
       {
-        "name": "Player 186",
+        "name": "Shai Gilgeous-Alexander",
         "team": "Charlotte Hornets",
         "position": "PG",
         "gamesPlayed": 81,
@@ -7828,7 +7828,7 @@
         "efficiencyRating": 11.4
       },
       {
-        "name": "Player 187",
+        "name": "Giannis Antetokounmpo",
         "team": "Boston Celtics",
         "position": "C",
         "gamesPlayed": 59,
@@ -7848,7 +7848,7 @@
         "efficiencyRating": 11.9
       },
       {
-        "name": "Player 188",
+        "name": "Jayson Tatum",
         "team": "Chicago Bulls",
         "position": "SG",
         "gamesPlayed": 77,
@@ -7868,7 +7868,7 @@
         "efficiencyRating": 19.9
       },
       {
-        "name": "Player 189",
+        "name": "Kevin Durant",
         "team": "New York Knicks",
         "position": "SG",
         "gamesPlayed": 68,
@@ -7888,7 +7888,7 @@
         "efficiencyRating": 13.7
       },
       {
-        "name": "Player 190",
+        "name": "Devin Booker",
         "team": "Orlando Magic",
         "position": "SG",
         "gamesPlayed": 61,
@@ -7908,7 +7908,7 @@
         "efficiencyRating": 25.3
       },
       {
-        "name": "Player 191",
+        "name": "Anthony Edwards",
         "team": "Milwaukee Bucks",
         "position": "SF",
         "gamesPlayed": 74,
@@ -7928,7 +7928,7 @@
         "efficiencyRating": 31.1
       },
       {
-        "name": "Player 192",
+        "name": "Tyrese Haliburton",
         "team": "New Orleans Pelicans",
         "position": "C",
         "gamesPlayed": 76,
@@ -7948,7 +7948,7 @@
         "efficiencyRating": 28.9
       },
       {
-        "name": "Player 193",
+        "name": "Jalen Brunson",
         "team": "Houston Rockets",
         "position": "PF",
         "gamesPlayed": 84,
@@ -7968,7 +7968,7 @@
         "efficiencyRating": 21.7
       },
       {
-        "name": "Player 194",
+        "name": "Domantas Sabonis",
         "team": "Washington Wizards",
         "position": "PG",
         "gamesPlayed": 76,
@@ -7988,7 +7988,7 @@
         "efficiencyRating": 23.8
       },
       {
-        "name": "Player 195",
+        "name": "Bam Adebayo",
         "team": "New York Knicks",
         "position": "C",
         "gamesPlayed": 82,
