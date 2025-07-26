@@ -1,0 +1,72 @@
+[
+  {
+    "year": 2023,
+    "preLottery": [
+      { "slot": 1, "team": "Detroit Pistons", "record": "17-65" },
+      { "slot": 2, "team": "Houston Rockets", "record": "22-60" },
+      { "slot": 3, "team": "San Antonio Spurs", "record": "22-60" },
+      { "slot": 4, "team": "Charlotte Hornets", "record": "27-55" },
+      { "slot": 5, "team": "Portland Trail Blazers", "record": "33-49" },
+      { "slot": 6, "team": "Orlando Magic", "record": "34-48" },
+      { "slot": 7, "team": "Indiana Pacers", "record": "35-47" },
+      { "slot": 8, "team": "Washington Wizards", "record": "35-47" },
+      { "slot": 9, "team": "Utah Jazz", "record": "37-45" },
+      { "slot": 10, "team": "Dallas Mavericks", "record": "38-44" },
+      { "slot": 11, "team": "Orlando Magic (from Chicago)", "record": "40-42" },
+      { "slot": 12, "team": "Oklahoma City Thunder", "record": "40-42" },
+      { "slot": 13, "team": "Toronto Raptors", "record": "41-41" },
+      { "slot": 14, "team": "New Orleans Pelicans", "record": "42-40" }
+    ],
+    "postLottery": [
+      { "pick": 1, "team": "San Antonio Spurs", "preSlot": 3 },
+      { "pick": 2, "team": "Charlotte Hornets", "preSlot": 4 },
+      { "pick": 3, "team": "Portland Trail Blazers", "preSlot": 5 },
+      { "pick": 4, "team": "Houston Rockets", "preSlot": 2 },
+      { "pick": 5, "team": "Detroit Pistons", "preSlot": 1 },
+      { "pick": 6, "team": "Orlando Magic", "preSlot": 6 },
+      { "pick": 7, "team": "Indiana Pacers", "preSlot": 7 },
+      { "pick": 8, "team": "Washington Wizards", "preSlot": 8 },
+      { "pick": 9, "team": "Utah Jazz", "preSlot": 9 },
+      { "pick": 10, "team": "Dallas Mavericks", "preSlot": 10 },
+      { "pick": 11, "team": "Orlando Magic (from Chicago)", "preSlot": 11 },
+      { "pick": 12, "team": "Oklahoma City Thunder", "preSlot": 12 },
+      { "pick": 13, "team": "Toronto Raptors", "preSlot": 13 },
+      { "pick": 14, "team": "New Orleans Pelicans", "preSlot": 14 }
+    ]
+  },
+  {
+    "year": 2022,
+    "preLottery": [
+      { "slot": 1, "team": "Houston Rockets", "record": "20-62" },
+      { "slot": 2, "team": "Orlando Magic", "record": "22-60" },
+      { "slot": 3, "team": "Detroit Pistons", "record": "23-59" },
+      { "slot": 4, "team": "Oklahoma City Thunder", "record": "24-58" },
+      { "slot": 5, "team": "Indiana Pacers", "record": "25-57" },
+      { "slot": 6, "team": "Portland Trail Blazers", "record": "27-55" },
+      { "slot": 7, "team": "Sacramento Kings", "record": "30-52" },
+      { "slot": 8, "team": "Los Angeles Lakers (to New Orleans)", "record": "33-49" },
+      { "slot": 9, "team": "San Antonio Spurs", "record": "34-48" },
+      { "slot": 10, "team": "Washington Wizards", "record": "35-47" },
+      { "slot": 11, "team": "New York Knicks", "record": "37-45" },
+      { "slot": 12, "team": "Oklahoma City Thunder (from LA Clippers)", "record": "42-40" },
+      { "slot": 13, "team": "Charlotte Hornets", "record": "43-39" },
+      { "slot": 14, "team": "Cleveland Cavaliers", "record": "44-38" }
+    ],
+    "postLottery": [
+      { "pick": 1, "team": "Orlando Magic", "preSlot": 2 },
+      { "pick": 2, "team": "Oklahoma City Thunder", "preSlot": 4 },
+      { "pick": 3, "team": "Houston Rockets", "preSlot": 1 },
+      { "pick": 4, "team": "Sacramento Kings", "preSlot": 7 },
+      { "pick": 5, "team": "Detroit Pistons", "preSlot": 3 },
+      { "pick": 6, "team": "Indiana Pacers", "preSlot": 5 },
+      { "pick": 7, "team": "Portland Trail Blazers", "preSlot": 6 },
+      { "pick": 8, "team": "New Orleans Pelicans (from Lakers)", "preSlot": 8 },
+      { "pick": 9, "team": "San Antonio Spurs", "preSlot": 9 },
+      { "pick": 10, "team": "Washington Wizards", "preSlot": 10 },
+      { "pick": 11, "team": "New York Knicks", "preSlot": 11 },
+      { "pick": 12, "team": "Oklahoma City Thunder (from LA Clippers)", "preSlot": 12 },
+      { "pick": 13, "team": "Charlotte Hornets", "preSlot": 13 },
+      { "pick": 14, "team": "Cleveland Cavaliers", "preSlot": 14 }
+    ]
+  }
+] 
