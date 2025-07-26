@@ -16,6 +16,7 @@ function App() {
             <td>{row.slot}</td>
             <td>{row.team}</td>
             <td>{row.record}</td>
+            <td>{row.probability}%</td>
           </tr>
         ))
       : yearData.postLottery.map((row, i) => (
@@ -26,6 +27,7 @@ function App() {
               yearData.preLottery.find((t) => t.slot === row.preSlot)?.record || ''
             }</td>
             <td>{row.preSlot}</td>
+            <td>{row.probability}%</td>
           </tr>
         ));
 
@@ -69,6 +71,7 @@ function App() {
             <th>Team</th>
             <th>Record</th>
             {mode === 'post' && <th>Pre-Lottery Slot</th>}
+            <th>Probability</th>
           </tr>
         </thead>
         <tbody>{tableRows}</tbody>
