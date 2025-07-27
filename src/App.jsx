@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import lotteryData from './lotteryData.json';
-import playerData from './playerData.json';
+import playerData from './data/playerData.json';
 import './App.css';
 
 function App() {
@@ -184,11 +184,11 @@ function App() {
                 onChange={(e) => setSelectedSeason(e.target.value)}
                 style={{ marginLeft: 8 }}
               >
-                {playerData.map((season) => (
-                  <option key={season.season} value={season.season}>
-                    {season.season}
-                  </option>
-                ))}
+                                            {playerData.map((season) => (
+                              <option key={season.season} value={season.season}>
+                                {season.season}
+                              </option>
+                            ))}
               </select>
             </label>
             
