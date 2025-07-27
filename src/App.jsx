@@ -258,12 +258,7 @@ function App() {
             </label>
           </div>
 
-          <div style={{ marginBottom: '16px', padding: '12px', backgroundColor: '#e8f4fd', borderRadius: '8px' }}>
-            <strong>Showing {sortedPlayers.length} of {players.length} players</strong>
-            {searchTerm && <span> • Search: "{searchTerm}"</span>}
-            {selectedTeam !== 'All Teams' && <span> • Team: {selectedTeam}</span>}
-            {selectedPosition !== 'All Positions' && <span> • Position: {selectedPosition}</span>}
-          </div>
+
         </div>
 
         <div className="moneyball-table">
