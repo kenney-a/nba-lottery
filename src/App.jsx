@@ -374,7 +374,7 @@ function App() {
           </table>
         </div>
         
-        <div style={{ marginTop: 20, padding: 20, backgroundColor: '#f5f5f5', borderRadius: 8 }}>
+        <div style={{ marginTop: 20, padding: 20, backgroundColor: '#f5f5f5', borderRadius: 8, color: '#000000' }}>
           <h3>Analytics Insights</h3>
           <ul>
             <li><strong>Value Rating:</strong> Combines production, efficiency, and salary to identify the best value players</li>
