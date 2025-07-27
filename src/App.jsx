@@ -9,6 +9,7 @@ function App() {
   const [selectedYear, setSelectedYear] = useState(years[0]);
   const [mode, setMode] = useState('post'); // 'pre' or 'post'
   const [activeTab, setActiveTab] = useState('lottery'); // 'lottery', 'trades', 'moneyball'
+  const [sidebarCollapsed, setSidebarCollapsed] = useState(false);
   
   // Moneyball Players state
   const [selectedSeason, setSelectedSeason] = useState('2023-24');
@@ -110,8 +111,13 @@ function App() {
     
     // Filter players based on search and filters
     let filteredPlayers = players.filter(player => {
-      const matchesSearch = player.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-                           player.team.toLowerCase().includes(searchTerm.toLowerCase());
+      const searchLower = searchTerm.toLowerCase().trim();
+      const nameLower = player.name.toLowerCase();
+      const teamLower = player.team.toLowerCase();
+      
+      const matchesSearch = searchTerm === '' || 
+                           nameLower.includes(searchLower) ||
+                           teamLower.includes(searchLower);
       const matchesTeam = selectedTeam === 'All Teams' || player.team === selectedTeam;
       const matchesPosition = selectedPosition === 'All Positions' || player.position === selectedPosition;
       
@@ -120,13 +126,19 @@ function App() {
     
     // Sort players based on selected criteria
     const sortedPlayers = [...filteredPlayers].sort((a, b) => {
-      const aValue = a[sortBy];
-      const bValue = b[sortBy];
+      let aValue = a[sortBy];
+      let bValue = b[sortBy];
+      
+      // Handle string sorting for name, team, and position
+      if (sortBy === 'name' || sortBy === 'team' || sortBy === 'position') {
+        aValue = aValue.toLowerCase();
+        bValue = bValue.toLowerCase();
+      }
       
       if (sortOrder === 'desc') {
-        return bValue - aValue;
+        return aValue < bValue ? 1 : aValue > bValue ? -1 : 0;
       } else {
-        return aValue - bValue;
+        return aValue > bValue ? 1 : aValue < bValue ? -1 : 0;
       }
     });
 
@@ -141,6 +153,22 @@ function App() {
     // Get unique teams and positions for filters
     const teams = ['All Teams', ...new Set(players.map(p => p.team))];
     const positions = ['All Positions', ...new Set(players.map(p => p.position))];
+
+    // Handle column sorting
+    const handleSort = (column) => {
+      if (sortBy === column) {
+        setSortOrder(sortOrder === 'desc' ? 'asc' : 'desc');
+      } else {
+        setSortBy(column);
+        setSortOrder('desc');
+      }
+    };
+
+    // Get sort indicator for column headers
+    const getSortIndicator = (column) => {
+      if (sortBy !== column) return '↕';
+      return sortOrder === 'desc' ? '↓' : '↑';
+    };
 
     return (
       <div>
@@ -242,25 +270,95 @@ function App() {
           <table>
             <thead>
               <tr>
-                <th>Rank</th>
-                <th>Player</th>
-                <th>Team</th>
-                <th>Pos</th>
-                <th>GP</th>
-                <th>PPG</th>
-                <th>RPG</th>
-                <th>APG</th>
-                <th>FG%</th>
-                <th>3P%</th>
-                <th>FT%</th>
-                <th>Salary</th>
-                <th>Value Rating</th>
-                <th>Efficiency</th>
+                <th 
+                  onClick={() => handleSort('rank')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Rank {getSortIndicator('rank')}
+                </th>
+                <th 
+                  onClick={() => handleSort('name')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Player {getSortIndicator('name')}
+                </th>
+                <th 
+                  onClick={() => handleSort('team')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Team {getSortIndicator('team')}
+                </th>
+                <th 
+                  onClick={() => handleSort('position')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Pos {getSortIndicator('position')}
+                </th>
+                <th 
+                  onClick={() => handleSort('gamesPlayed')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  GP {getSortIndicator('gamesPlayed')}
+                </th>
+                <th 
+                  onClick={() => handleSort('pointsPerGame')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  PPG {getSortIndicator('pointsPerGame')}
+                </th>
+                <th 
+                  onClick={() => handleSort('reboundsPerGame')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  RPG {getSortIndicator('reboundsPerGame')}
+                </th>
+                <th 
+                  onClick={() => handleSort('assistsPerGame')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  APG {getSortIndicator('assistsPerGame')}
+                </th>
+                <th 
+                  onClick={() => handleSort('fieldGoalPercentage')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  FG% {getSortIndicator('fieldGoalPercentage')}
+                </th>
+                <th 
+                  onClick={() => handleSort('threePointPercentage')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  3P% {getSortIndicator('threePointPercentage')}
+                </th>
+                <th 
+                  onClick={() => handleSort('freeThrowPercentage')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  FT% {getSortIndicator('freeThrowPercentage')}
+                </th>
+                <th 
+                  onClick={() => handleSort('salary')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Salary {getSortIndicator('salary')}
+                </th>
+                <th 
+                  onClick={() => handleSort('valueRating')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Value Rating {getSortIndicator('valueRating')}
+                </th>
+                <th 
+                  onClick={() => handleSort('efficiencyRating')}
+                  style={{ cursor: 'pointer', userSelect: 'none' }}
+                >
+                  Efficiency {getSortIndicator('efficiencyRating')}
+                </th>
               </tr>
             </thead>
             <tbody>
               {sortedPlayers.map((player, index) => (
-                <tr key={`${player.name}-${selectedSeason}`}>
+                <tr key={`${player.name}-${selectedSeason}-${index}`}>
                   <td>{index + 1}</td>
                   <td>{player.name}</td>
                   <td>{player.team}</td>
@@ -297,32 +395,42 @@ function App() {
 
   return (
     <div className="App">
-      <div className="sidebar">
+      <div className={`sidebar ${sidebarCollapsed ? 'collapsed' : ''}`}>
         <div className="sidebar-header">
           <h2>All NBA</h2>
+          <button 
+            className="sidebar-toggle"
+            onClick={() => setSidebarCollapsed(!sidebarCollapsed)}
+            title={sidebarCollapsed ? "Expand sidebar" : "Collapse sidebar"}
+          >
+            {sidebarCollapsed ? '→' : '←'}
+          </button>
         </div>
         <nav className="sidebar-nav">
           <button
             className={`sidebar-tab ${activeTab === 'lottery' ? 'active' : ''}`}
             onClick={() => setActiveTab('lottery')}
           >
-            NBA Lottery
+            <span>🏀</span>
+            <span>NBA Lottery</span>
           </button>
           <button
             className={`sidebar-tab ${activeTab === 'trades' ? 'active' : ''}`}
             onClick={() => setActiveTab('trades')}
           >
-            Trade Grades
+            <span>📊</span>
+            <span>Trade Grades</span>
           </button>
           <button
             className={`sidebar-tab ${activeTab === 'moneyball' ? 'active' : ''}`}
             onClick={() => setActiveTab('moneyball')}
           >
-            Moneyball Players
+            <span>💰</span>
+            <span>Moneyball Players</span>
           </button>
         </nav>
       </div>
-      <div className="main-content">
+      <div className={`main-content ${sidebarCollapsed ? 'expanded' : ''}`}>
         {activeTab === 'lottery' && renderLotteryContent()}
         {activeTab === 'trades' && renderTradeGradesContent()}
         {activeTab === 'moneyball' && renderMoneyballContent()}
