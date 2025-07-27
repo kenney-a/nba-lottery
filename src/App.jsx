@@ -374,15 +374,15 @@ function App() {
           </table>
         </div>
         
-        <div style={{ marginTop: 20, padding: 20, backgroundColor: '#f5f5f5', borderRadius: 8, color: '#000000' }}>
+        <div style={{ marginTop: 20, padding: 20, backgroundColor: '#f5f5f5', borderRadius: 8, color: '#000000', textAlign: 'left' }}>
           <h3>Analytics Insights</h3>
-          <ul>
-            <li><strong>Value Rating:</strong> Combines production, efficiency, and salary to identify the best value players</li>
-            <li><strong>Efficiency Rating:</strong> Advanced metric considering shooting percentages, turnovers, and overall impact</li>
-            <li><strong>Top Value Picks:</strong> Players like Tyrese Haliburton and Anthony Edwards provide exceptional production relative to their salary</li>
-            <li><strong>Efficiency Leaders:</strong> Nikola Jokić and Joel Embiid lead in overall efficiency despite high salaries</li>
-            <li><strong>Dataset:</strong> Comprehensive analysis of 200+ NBA players from the last two seasons</li>
-          </ul>
+          <div>
+            <div><strong>Value Rating:</strong> Combines production, efficiency, and salary to identify the best value players</div>
+            <div><strong>Efficiency Rating:</strong> Advanced metric considering shooting percentages, turnovers, and overall impact</div>
+            <div><strong>Top Value Picks:</strong> Players like Tyrese Haliburton and Anthony Edwards provide exceptional production relative to their salary</div>
+            <div><strong>Efficiency Leaders:</strong> Nikola Jokić and Joel Embiid lead in overall efficiency despite high salaries</div>
+            <div><strong>Dataset:</strong> Comprehensive analysis of 200+ NBA players from the last two seasons</div>
+          </div>
         </div>
       </div>
     );
