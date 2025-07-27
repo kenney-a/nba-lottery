@@ -1,0 +1,53 @@
+name: Update NBA Data Daily
+
+on:
+  schedule:
+    # Run daily at 6 AM UTC (2 AM EST)
+    - cron: '0 6 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18'
+        cache: 'npm'
+        
+    - name: Install dependencies
+      run: npm install
+      
+    - name: Update NBA data
+      run: node scripts/updateData.js full
+      
+    - name: Check for changes
+      id: changes
+      run: |
+        if git diff --quiet; then
+          echo "no_changes=true" >> $GITHUB_OUTPUT
+        else
+          echo "no_changes=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.changes.outputs.no_changes == 'false'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "🤖 Auto-update NBA data - $(date -u +'%Y-%m-%d %H:%M UTC')"
+        git push
+        
+    - name: Create summary comment
+      if: steps.changes.outputs.no_changes == 'false'
+      run: |
+        echo "## 📊 NBA Data Update Summary" >> $GITHUB_STEP_SUMMARY
+        echo "- **Updated at:** $(date -u)" >> $GITHUB_STEP_SUMMARY
+        echo "- **Status:** ✅ Successfully updated player and lottery data" >> $GITHUB_STEP_SUMMARY
+        echo "- **Changes:** Data files have been updated and committed" >> $GITHUB_STEP_SUMMARY 

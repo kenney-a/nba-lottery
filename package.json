@@ -7,7 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "update-data": "node scripts/updateData.js",
+    "update-players": "node scripts/updateData.js players",
+    "update-lottery": "node scripts/updateData.js lottery",
+    "data-summary": "node scripts/updateData.js summary"
   },
   "dependencies": {
     "react": "^19.1.0",
