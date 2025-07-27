@@ -91,7 +91,7 @@ function App() {
   );
 
   const renderTradeGradesContent = () => (
-    <div>
+    <div style={{ color: '#000000' }}>
       <h1>Trade Grades</h1>
       <p>Coming soon! This section will feature analysis and grades for NBA trades.</p>
       <div style={{ padding: 20, backgroundColor: '#f5f5f5', borderRadius: 8 }}>
