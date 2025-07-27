@@ -195,23 +195,37 @@ table {
   color: #000000; /* Added for table text */
 }
 
+/* Override general table styles for moneyball table */
+.moneyball-table table {
+  box-shadow: none;
+  border-radius: 0;
+  margin: 0;
+}
+
 /* Special styling for Moneyball Players table */
 .moneyball-table {
   overflow-x: auto;
   max-width: 100%;
   max-height: 70vh;
   overflow-y: auto;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
 }
 
 .moneyball-table table {
   min-width: 1200px; /* Ensure table doesn't get too cramped */
   border-collapse: collapse;
+  width: 100%;
 }
 
 .moneyball-table thead {
   position: sticky;
   top: 0;
-  z-index: 10;
+  z-index: 100;
+  background-color: #f8f9fa;
+}
+
+.moneyball-table thead tr {
   background-color: #f8f9fa;
 }
 
@@ -219,19 +233,25 @@ table {
   cursor: pointer;
   user-select: none;
   transition: background-color 0.2s ease;
-  position: relative;
   padding: 12px 8px;
-  background-color: #f8f9fa;
+  background-color: #f8f9fa !important;
   border-bottom: 2px solid #dee2e6;
   font-weight: 600;
+  color: #000000;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
 .moneyball-table th:hover {
-  background-color: #e9ecef;
+  background-color: #e9ecef !important;
 }
 
 .moneyball-table th:active {
-  background-color: #dee2e6;
+  background-color: #dee2e6 !important;
 }
 
 .moneyball-table tbody tr:nth-child(even) {
@@ -244,6 +264,12 @@ table {
 
 .moneyball-table tbody tr:hover {
   background-color: #e9ecef;
+}
+
+.moneyball-table tbody td {
+  padding: 12px 8px;
+  border-bottom: 1px solid #e9ecef;
+  color: #000000;
 }
 
 th, td {
